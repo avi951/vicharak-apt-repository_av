@@ -2,19 +2,19 @@ Origin: vicharak apt
 Label: vicharak-apt
 Suite: stable
 Codename: stable
-Date: Mon, 25 Nov 2024 07:02:16 UTC
+Date: Wed, 17 Dec 2025 09:18:29 UTC
 Architectures: arm64
 Components: main
 Description: APT repository for Vicharak (shared)
 MD5Sum:
- d41d8cd98f00b204e9800998ecf8427e 0 main/binary-arm64/Packages
- 7029066c27ac6f5ef18d660d5741979a 20 main/binary-arm64/Packages.gz
- c2f73ac703621e581af54ff7fb917119 143 main/binary-arm64/Release
+ 5ab97304f794ce3df4520bc668f93cf5 7703 main/binary-arm64/Packages
+ 7eefe9b2d194cd9ab128eaeef395606e 3159 main/binary-arm64/Packages.gz
+ 2b3ae32a287e9eff779d96d9545597bf 143 main/binary-arm64/Release
 SHA1:
- da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-arm64/Packages
- 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-arm64/Packages.gz
- 0cee93dedf767aaeef45197ee6bcf30e6b455ea4 143 main/binary-arm64/Release
+ 19c46ac7706b43e067bc3452e73b3650e1d3f7f0 7703 main/binary-arm64/Packages
+ 96bf71fed7f30ec0f0db13002d9602d51c59a865 3159 main/binary-arm64/Packages.gz
+ 069bd268fe7b35a5855d415a75c185cfcc7b79d6 143 main/binary-arm64/Release
 SHA256:
- e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-arm64/Packages
- 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-arm64/Packages.gz
- a67b895c4f45b8e31c00444752180f55b77e709bfcfadd306e18d6da3d86e5c4 143 main/binary-arm64/Release
+ 8c2ce1d8b85aa38e821d0dbbc520c684a53fa9229d94d6d38367c03ebff9cb9c 7703 main/binary-arm64/Packages
+ 0aaa099878847c3d2e3d906953bfad6dcba5788cb3357764158cfc55bd9330e8 3159 main/binary-arm64/Packages.gz
+ 56d93b51dc9fdabcc5199f42268ca76f396181cbbedaa39b21007c9de660bd2c 143 main/binary-arm64/Release

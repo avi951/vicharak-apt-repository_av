@@ -1,0 +1,364 @@
+Package: bitman
+Version: 0.0.2-0
+Architecture: arm64
+Maintainer: Shail Parmar <shailparmar26@gmail.com>
+Installed-Size: 69
+Priority: optional
+Section: utils
+Filename: pool/vaaman/b/bitman/bitman_0.0.2-0_arm64.deb
+Size: 12220
+SHA256: fa630e71dcdc7569ecac86bce29ea997c31665f915ee8762e611fb7e79419d0f
+SHA1: cc051a29435341f927086c90214df26edd24ab1b
+MD5sum: e10dff0527041feb7b4e19d683d63f4b
+Description: Bitstream management tool for Vaaman
+ It includes a utility (`bitman`) and a shared library (`libbitman.so`).
+
+Package: linux-headers-5.10.160-vaaman
+Source: linux-5.10.160-vaaman
+Version: 20241120-vaaman
+Architecture: arm64
+Maintainer: peter <peter@felicia>
+Installed-Size: 46519
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/vaaman/l/linux-5.10.160-vaaman/linux-headers-5.10.160-vaaman_20241120-vaaman_arm64.deb
+Size: 7697620
+SHA256: a8a46bc75104a0888660bf022be1af38cc00515b76c79948642f90b084fe9261
+SHA1: 6efacb2e6fb2ce2fb320aa87479506ac6079234b
+MD5sum: 27e08f30e2d29f66738ac8741777c050
+Description: Linux kernel headers for 5.10.160-vaaman on arm64
+ This package provides kernel header files for 5.10.160-vaaman on arm64
+ .
+ This is useful for people who need to build external modules
+
+Package: linux-headers-5.10.226-vaaman
+Source: linux-5.10.226-vaaman
+Version: 20241120-vaaman
+Architecture: arm64
+Maintainer: vicharak <d.kabutarwala@yahoo.com>
+Installed-Size: 47313
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/vaaman/l/linux-5.10.226-vaaman/linux-headers-5.10.226-vaaman_20241120-vaaman_arm64.deb
+Size: 7705148
+SHA256: cb2f95a91577f7ae48d593587cfa9cc4d56cf22ed69ac103e0857cd261fea2d3
+SHA1: 8b7791896df77ab6363fb5b48bc568a36519e5b6
+MD5sum: 23042ea8549ccc02f6ce47ab8cc1ed0a
+Description: Linux kernel headers for 5.10.226-vaaman on arm64
+ This package provides kernel header files for 5.10.226-vaaman on arm64
+ .
+ This is useful for people who need to build external modules
+
+Package: linux-headers-5.10.228-vaaman
+Source: linux-5.10.228-vaaman
+Version: 20241227-vaaman
+Architecture: arm64
+Maintainer: vicharak <d.kabutarwala@yahoo.com>
+Installed-Size: 47330
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/vaaman/l/linux-5.10.228-vaaman/linux-headers-5.10.228-vaaman_20241227-vaaman_arm64.deb
+Size: 7707208
+SHA256: d36b40d74ce0eb69a0e5314eb7ebc19abb151918ceaac5c8a25b2be92e9c8b12
+SHA1: b0316e257d54c076f1b759a2ef57368340dc7ed0
+MD5sum: 80dccaf997f50900486cb3af84db2a02
+Description: Linux kernel headers for 5.10.228-vaaman on arm64
+ This package provides kernel header files for 5.10.228-vaaman on arm64
+ .
+ This is useful for people who need to build external modules
+
+Package: linux-headers-5.10.230-vaaman
+Source: linux-5.10.230-vaaman
+Version: 20250204-vaaman
+Architecture: arm64
+Maintainer: peter <peter@felicia>
+Installed-Size: 47370
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/vaaman/l/linux-5.10.230-vaaman/linux-headers-5.10.230-vaaman_20250204-vaaman_arm64.deb
+Size: 7707124
+SHA256: 8af592e4679c48b9f86673e982516bf60853c2e1668e31fb8e94d3dfb678befd
+SHA1: 130311c1680505fbe3bbe8be0c58eb94680071fa
+MD5sum: de2789dd87889fdd8a40364a5c7a4c71
+Description: Linux kernel headers for 5.10.230-vaaman on arm64
+ This package provides kernel header files for 5.10.230-vaaman on arm64
+ .
+ This is useful for people who need to build external modules
+
+Package: linux-headers-5.10.233-vaaman
+Source: linux-5.10.233-vaaman
+Version: 20250625-vaaman
+Architecture: arm64
+Maintainer: vicharak <d.kabutarwala@yahoo.com>
+Installed-Size: 47902
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/vaaman/l/linux-5.10.233-vaaman/linux-headers-5.10.233-vaaman_20250625-vaaman_arm64.deb
+Size: 7764664
+SHA256: 0050692ff23609682f4597a080b1415325697a3a9f11264e9152954325bbee79
+SHA1: e4213236fb105a4b2a60ee1081d19056ec4cad9d
+MD5sum: 08b8be209fe17f45837568355584bba4
+Description: Linux kernel headers for 5.10.233-vaaman on arm64
+ This package provides kernel header files for 5.10.233-vaaman on arm64
+ .
+ This is useful for people who need to build external modules
+
+Package: linux-headers-5.10.238-vaaman
+Source: linux-5.10.238-vaaman
+Version: 20251111-vaaman
+Architecture: arm64
+Maintainer: root <root@a8e2cf3b3b2b>
+Installed-Size: 47478
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/vaaman/l/linux-5.10.238-vaaman/linux-headers-5.10.238-vaaman_20251111-vaaman_arm64.deb
+Size: 7719916
+SHA256: cb29e9453e9537c395eeefb2352758cf2ac6160b6be9aa6ca4464dc5477d7214
+SHA1: a2c9d950f34537938d778f610929f666b6c3e368
+MD5sum: ff2826944579df5d2c700877287ed7be
+Description: Linux kernel headers for 5.10.238-vaaman on arm64
+ This package provides kernel header files for 5.10.238-vaaman on arm64
+ .
+ This is useful for people who need to build external modules
+
+Package: linux-image-5.10.160-vaaman
+Source: linux-5.10.160-vaaman
+Version: 20241120-vaaman
+Architecture: arm64
+Maintainer: peter <peter@felicia>
+Installed-Size: 63689
+Depends: vicharak-config (>= 0.1.7), u-boot-menu (>= 5.0.4)
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/vaaman/l/linux-5.10.160-vaaman/linux-image-5.10.160-vaaman_20241120-vaaman_arm64.deb
+Size: 14299792
+SHA256: 77ddc4b6a2c0f7ead705e5a3632ef4850ebe229e59dd5c57b786198bcba37cd5
+SHA1: 3daf43a26f3a2578ec6904beefaf9041ae908ed3
+MD5sum: d1d7070aca363437c8610766909b7717
+Description: Linux kernel, version 5.10.160-vaaman
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 5.10.160-vaaman.
+
+Package: linux-image-5.10.226-vaaman
+Source: linux-5.10.226-vaaman
+Version: 20241120-vaaman
+Architecture: arm64
+Maintainer: vicharak <d.kabutarwala@yahoo.com>
+Installed-Size: 66127
+Depends: vicharak-config (>= 0.1.7), u-boot-menu (>= 5.0.4)
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/vaaman/l/linux-5.10.226-vaaman/linux-image-5.10.226-vaaman_20241120-vaaman_arm64.deb
+Size: 14804508
+SHA256: a22c47b67c456c105c182db027445fab3062db04dd0d496597a502cf9a559878
+SHA1: 2ebee4bf9956c717c877b036de4a00ea4aadd9aa
+MD5sum: cf2d950a49abecac64bf448cd3f3cc6f
+Description: Linux kernel, version 5.10.226-vaaman
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 5.10.226-vaaman.
+
+Package: linux-image-5.10.228-vaaman
+Source: linux-5.10.228-vaaman
+Version: 20241227-vaaman
+Architecture: arm64
+Maintainer: vicharak <d.kabutarwala@yahoo.com>
+Installed-Size: 66203
+Depends: vicharak-config (>= 0.1.7), u-boot-menu (>= 5.0.4)
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/vaaman/l/linux-5.10.228-vaaman/linux-image-5.10.228-vaaman_20241227-vaaman_arm64.deb
+Size: 14830456
+SHA256: bf0dd726bf2185cb09ceebf3de3003d682001dc198d2f8e5ef11adedacb7a5c0
+SHA1: b13afdc30f803b1c571eb956b266e139a0ff2fe5
+MD5sum: 7b7eae5ccbf1c95c633c583c5bc01255
+Description: Linux kernel, version 5.10.228-vaaman
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 5.10.228-vaaman.
+
+Package: linux-image-5.10.230-vaaman
+Source: linux-5.10.230-vaaman
+Version: 20250204-vaaman
+Architecture: arm64
+Maintainer: peter <peter@felicia>
+Installed-Size: 68890
+Depends: vicharak-config (>= 0.1.7), u-boot-menu (>= 5.0.4)
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/vaaman/l/linux-5.10.230-vaaman/linux-image-5.10.230-vaaman_20250204-vaaman_arm64.deb
+Size: 15321952
+SHA256: 6037cba1ef84006e7f62441d84cd13a3fe8bfcf8ea6340f15393d43d590e36f7
+SHA1: 62bd27fab4894c85a558072daa8bce331b8ad96d
+MD5sum: ceac244c1d0232a0a6adb67e427c56f1
+Description: Linux kernel, version 5.10.230-vaaman
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 5.10.230-vaaman.
+
+Package: linux-image-5.10.233-vaaman
+Source: linux-5.10.233-vaaman
+Version: 20250625-vaaman
+Architecture: arm64
+Maintainer: vicharak <d.kabutarwala@yahoo.com>
+Installed-Size: 72862
+Depends: vicharak-config (>= 0.1.7), u-boot-menu (>= 5.0.4)
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/vaaman/l/linux-5.10.233-vaaman/linux-image-5.10.233-vaaman_20250625-vaaman_arm64.deb
+Size: 16008496
+SHA256: 79451f12ace42ee9e27c9389bd1f7e7e60e3580257c743d6a06ab85890ce996d
+SHA1: ed748b6bcaad9285d254e7ddbff0ec09b7316911
+MD5sum: da6e79fcca8efc9410dc5d5fc4c91613
+Description: Linux kernel, version 5.10.233-vaaman
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 5.10.233-vaaman.
+
+Package: linux-image-5.10.238-vaaman
+Source: linux-5.10.238-vaaman
+Version: 20251111-vaaman
+Architecture: arm64
+Maintainer: root <root@a8e2cf3b3b2b>
+Installed-Size: 73085
+Depends: vicharak-config (>= 0.1.7), u-boot-menu (>= 5.0.4)
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/vaaman/l/linux-5.10.238-vaaman/linux-image-5.10.238-vaaman_20251111-vaaman_arm64.deb
+Size: 16001080
+SHA256: f1095b1d65b4d189f2e316274644d081a73592bbf12886aea6dbc77ac150cdcc
+SHA1: 4fcf5b0012ae1483c8968441b4a74e5d64da8193
+MD5sum: c8ad3c1d77ebbe613877773986dcad7a
+Description: Linux kernel, version 5.10.238-vaaman
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 5.10.238-vaaman.
+
+Package: linux-libc-dev
+Source: linux-5.10.238-vaaman
+Version: 20251111-vaaman
+Architecture: arm64
+Maintainer: root <root@a8e2cf3b3b2b>
+Installed-Size: 6360
+Provides: linux-kernel-headers
+Multi-Arch: same
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: devel
+Filename: pool/vaaman/l/linux-5.10.238-vaaman/linux-libc-dev_20251111-vaaman_arm64.deb
+Size: 1203600
+SHA256: f2d16de58de078e27412adb50d2550bdaea19642b97b0e90ce68b9d8c990562b
+SHA1: 433e9e4cf5e369862c141f6f247ed1a317536991
+MD5sum: c13c0c347d1d002263daa00badb63e13
+Description: Linux support headers for userspace development
+ This package provides userspaces headers from the Linux kernel.  These headers
+ are used by the installed headers for GNU glibc and other system libraries.
+
+Package: periplex
+Version: 0.0.2
+Architecture: arm64
+Maintainer: vatsal <vhkevadiya15@gmail.com>
+Installed-Size: 117
+Depends: libxml2-dev, libcjson-dev, libsqlite3-dev, curl, libwebsockets-dev, libjson-c-dev, libssl-dev, libcurl4-gnutls-dev, rah-service (>= 1.2.0), vicharak-config (>= 0.1.6), linux-image-5.10.233-vaaman, bitman
+Conflicts: linux-image-5.10.160-vaaman, linux-image-5.10.226-vaaman, linux-image-5.10.228-vaaman, linux-image-5.10.230-vaaman
+Priority: optional
+Section: admin
+Filename: pool/vaaman/p/periplex/periplex_0.0.2_arm64.deb
+Size: 26600
+SHA256: 45291d992036dffe64f18ffea1ccc188fbaabba2014428a9faf3c57871c583f2
+SHA1: 3bf8a3fb2d43bc1b9203e9467ef26a5a3246fb41
+MD5sum: fd22ca0eb87a62d0a49ce49a9e84ecd8
+Description: Generate peripherals on the demand
+ Periplex gives Users access to create peripherals to the existing board using the FPGA on vaaman.
+
+Package: rah-service
+Version: 1.2.1
+Architecture: arm64
+Maintainer: djkabutar <d.kabutarwala@yahoo.com>
+Installed-Size: 69
+Priority: optional
+Section: admin
+Filename: pool/vaaman/r/rah-service/rah-service_1.2.1_arm64.deb
+Size: 14208
+SHA256: 649828b26f5dd00dbc1b2b117d0a18e9216fcd92b8a04a8b82a91f6b2def1182
+SHA1: 959c3900e1a1eb24d2f14976baf328b7bcd6150a
+MD5sum: ff19f14dea3bb6a73fbc04f83e986369
+Description: Communication layer between vicharak FPGA and processor,
+ This package provides the communication layer between the vicharak FPGA and the processor. It is a service that runs in the background and listens for commands from the processor and sends them to the FPGA. It also listens for responses from the FPGA and sends them to the processor. This package is required for the vicharak FPGA to function properly.
+
+Package: rkisp-engine
+Version: 2.2.1
+Architecture: arm64
+Maintainer: djkabutar <d.kabutarwala@yahoo.com>
+Installed-Size: 36531
+Priority: optional
+Section: admin
+Filename: pool/vaaman/r/rkisp-engine/rkisp-engine_2.2.1_arm64.deb
+Size: 2262440
+SHA256: 9db5a64ca600989fc9d29b40b96effa229897409e9d55678a38e470ef51eda7b
+SHA1: 662456eafc5bb80a3e5d69ec6e28203a1f644930
+MD5sum: a1ae92302bf9be867119c838597b4665
+Description: RKISP for image processing on RK3399
+ This package provides the image server which will be run in background and apply changes to the raw images captured from camera if iqfile of the device is available in /etc/iqfiles.
+
+Package: u-boot-rk3399-vaaman
+Source: u-boot-vicharak
+Version: 1.1.12
+Architecture: arm64
+Maintainer: shailparmar03 <shailparmar26@gmail.com>
+Installed-Size: 8446
+Conflicts: u-boot-rk3399-vaaman
+Replaces: u-boot-rk3399-vaaman
+Provides: u-boot-rk3399-vaaman
+Priority: optional
+Section: admin
+Filename: pool/vaaman/u/u-boot-vicharak/u-boot-rk3399-vaaman_1.1.12_arm64.deb
+Size: 657424
+SHA256: 44c02f5c2e912e912756ded901eee958c7f60aa909ccf528ac07acd33f75c5a8
+SHA1: 9589369285b4c7dab328681c15d334025e7506bc
+MD5sum: 922b1d6371944381c2aa0405f11db7e3
+Description: A boot loader for the Vicharak Vaaman board.
+ Das U-Boot is a cross-platform bootloader for embedded systems,
+ used as the default boot loader by several board vendors.  It is
+ intended to be easy to port and to debug, and runs on many
+ supported architectures, including PPC, ARM, MIPS, x86, m68k,
+ NIOS, and Microblaze.ackage: u-boot-rk3399-vaaman
+
+Package: vaaman-ctl
+Version: 0.0.1
+Architecture: arm64
+Maintainer: djkabutar <d.kabutarwala@yahoo.com>
+Installed-Size: 25
+Priority: optional
+Section: admin
+Filename: pool/vaaman/v/vaaman-ctl/vaaman-ctl_0.0.1_arm64.deb
+Size: 5880
+SHA256: 725722a09d941f7b58dc427ddcf82987262d0e16fca154948a6bcf0244a79a31
+SHA1: ac8c192ae08184a57f2fc43fa05b468bee98dbd4
+MD5sum: deddefc5b833fc2269faced6113b4c15
+Description: Program bitstream onto the FPGA
+ This package provides control function i.e. uploading bitstream to the FPGA. It needs access of gpio and SPI controller in order to program bitstream.
+
+Package: vaaman-remote-upload
+Version: 1.0.8
+Architecture: arm64
+Maintainer: Gaurav Paliwal <paliwalgaurav141@gmail.com>
+Installed-Size: 58237
+Depends: python3-pyqt5 (>= 5.15)
+Recommends: avahi-daemon
+Priority: optional
+Section: admin
+Filename: pool/vaaman/v/vaaman-remote-upload/vaaman-remote-upload_1.0.8_arm64.deb
+Size: 13255344
+SHA256: 89beb272d08c26b5a7eaf1dc56d3bdb154d6bbe01739fadbee80d5168e9fc86b
+SHA1: 46b322fd459a9fba64f0fa65e66dbde8d19fe8c8
+MD5sum: d85c130fae78e53c87d87a992f74646e
+Description: vaaman remote upload package.
+
