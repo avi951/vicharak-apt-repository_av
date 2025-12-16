@@ -5,35 +5,35 @@ Origin: vicharak apt
 Label: vicharak-apt-vaaman
 Suite: stable
 Codename: stable-vaaman
-Date: Mon, 25 Nov 2024 06:59:15 UTC
+Date: Tue, 11 Nov 2025 09:44:21 UTC
 Architectures: arm64
 Components: vaaman
 Description: APT repository for Vaaman specific packages
 MD5Sum:
- d41d8cd98f00b204e9800998ecf8427e 0 vaaman/binary-arm64/Packages
- 7029066c27ac6f5ef18d660d5741979a 20 vaaman/binary-arm64/Packages.gz
+ a42b45c78b06234bbfcd0788bf42d4fc 14398 vaaman/binary-arm64/Packages
+ 6538ed8cbb7ef49cb18227432ceda9b2 4071 vaaman/binary-arm64/Packages.gz
  38935e24cc9a3f7715bf0c9267a84eb4 159 vaaman/binary-arm64/Release
 SHA1:
- da39a3ee5e6b4b0d3255bfef95601890afd80709 0 vaaman/binary-arm64/Packages
- 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 vaaman/binary-arm64/Packages.gz
+ 18991e84a58cf43ec17338963432ed8dac0d2e20 14398 vaaman/binary-arm64/Packages
+ fa7a71e81f4d49bebee3540f035275f3d4e00fc6 4071 vaaman/binary-arm64/Packages.gz
  824ea373904b07f5f10820d3eccddf543a7a8825 159 vaaman/binary-arm64/Release
 SHA256:
- e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 vaaman/binary-arm64/Packages
- 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 vaaman/binary-arm64/Packages.gz
+ 1cab9d7f72d6417b2ab22d19148770de11cf6ff74189e55bff7f0d413c627267 14398 vaaman/binary-arm64/Packages
+ 446070cb26f9dc0c4b5488a5e79431571b2cf47fd9b147c011f350d5f63bd412 4071 vaaman/binary-arm64/Packages.gz
  3ffee0b19a5e36932b776f2fc1db32d763176d874d79f5c45c0134546ee95b63 159 vaaman/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEERvvdDv4HsMosT7ZlwEJICc2+ulkFAmdEIEQACgkQwEJICc2+
-ulk/Lg//UXzGy402ttK16nqV0gA31SGCYlsNISAMvm/4ABEeILzhNDZ6ZHGyV4OH
-3nLw37nRBeJutKqzUSrv6eZTZbaQSOISxcqyYPw/9eLbqDhGzEELFJaZJtJXhFSd
-8690cwtVMCrb8ZocB4DZhsjLz9ZC9mrnGGZD7snOM35SoNO0xc48j3MP4ht1L1QA
-jlUNqkwEwNND2LwjHewLt4EW7brlXDHeVNKMRkKCTFs7wCYkpYGHvloYOIgCJRGs
-4JTQV442kz0S6gFMDeWFsAL61Yk4GxXnuUqOBaimrLiYwk2R86sp7Lm52ujAUrEV
-nQfeMOoPOVaZ1ghmVzivYZqEh/ioPgCo0keIpMI2Ngs4ZzcJQOH7/VPj6zft4oqv
-PCt0BnoZKboj/iTDwCMprzes2UkOqhhzc/8wi9IHOZzA03b9OkPNLHuideN2sp82
-x++9sKCC3EEOx1MyI9RZNtog4lmouBabWNF0fGfyf/W25s3kfK5FiBaj5zs1bhCa
-yo5CRNfkp5i/Kisu/c75qAcrLuZJtkMX7bXxiPfrK2B9zrzzpUNX3/xk++Up3U5S
-YzbfbnnOVCY3WaOOJdPlajf4gBQBLgugYStGJlvlgDVOC2MZtE4JbTjshwYQEsaw
-aGeUDPfGkwqOEfCptsRMRqudI61cYTLHtPLO9axiIwV95YvCB7s=
-=eewL
+iQIzBAEBCgAdFiEERvvdDv4HsMosT7ZlwEJICc2+ulkFAmkTBXUACgkQwEJICc2+
+ulmsBRAAmlRQC8KF2fh5n/ymbmieSzpaoaIT/HINuECTh+RWY1rXYNdls2xPlsY+
+ZJy8qjfCLcfNAifuzuOje23N50CAzL4S1lDq8NYnTVNrLoeO7J1Tg0I2iBuUyC0F
+TUghFHMvG00/NNNY51TdidNpIQavn8/8QsJlG4HJWzzK6C5O08VHY9OWtt+I05g5
+wC0RtPtPJjx5i1ixP1x1CqY+LA+YfbpmTEHsBjDIgZtd252mhNm2bVp57HJkluv/
+lnNcBAJCfICkwc46RhTslQcp7V7R860yq48sgRFvK3sYwpHPZmjLnoQxQQRFii3k
+L8d+FXI69BUsF8PCS4IxH/wPNQrHQUUPtp5EriXqJiU6yZQT+p5uc0Q7MA84LKyy
+d5fDldq6glko9aoxqjt7A6X+XEcapFc89jJaH2kR6zqwWNj9IdOCgQ13pSZ2UCXf
+XwAbxt655AOGiI4cq89T7gMHdgelmVG5CZrvZYOVpzlBKBRiQ5/y66DRXPCUxfaB
+s+EeUrdT2Hz8vITez2ROewvnCh+qqL29PFNWw0uzbIpG5RX9AX0AV3pzxCxf6TWK
+ZKIPEujFTyF72wtsMUNtwEfna7ib3FgFceUdahx2g2BowG+hraMhk4Z81nV/4Of3
+A1iKTPlr2iZSXcB28VJinygD8lYHKBt1lVkM27SHNZO4VUm13e0=
+=nTmM
 -----END PGP SIGNATURE-----
