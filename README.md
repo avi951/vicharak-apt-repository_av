@@ -10,13 +10,19 @@ This guide explains how to add Debian packages to an existing APT repository usi
 
 Start by cloning the APT repository from GitHub to your local machine:
 ```bash
-git clone https://github.com/Pratiksha0102/vicharak-apt-repository.git
+git clone https://github.com/vicharak-in/vicharak-apt-repository.git
 cd vicharak-apt-repository
 ```
 
 ### Step 2: Addthe packages to the Repository.
 
 Run the reprepro command to add the .deb package to the desired distribution.
+
+
+```bash
+reprepro -b /var/www/html/vicharak-apt includedeb <codename> /path/to/<package.deb>
+```
+
 
 - To add common packages for axon and vaaman
 ```bash
