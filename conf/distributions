@@ -1,30 +1,321 @@
-# General Stable Distribution
-Origin: vicharak apt 
-Label: vicharak-apt
+###########################################
+# stable 
+############################################
+Origin: vicharak-apt-stable 
+Label: vicharak-apt-stable
 Suite: stable
 Codename: stable
 Architectures: arm64
-Components: main
-Description: APT repository for Vicharak (shared)
-SignWith: D27B9F61267923BBBD0EC959D94C5810670A1D0C
+Components: stable
+Description: Global stable packages
+SignWith: yes
 
-# Axon Specific Distribution
-Origin: vicharak apt
-Label: vicharak-apt-axon
+
+############################################
+# stable-qualcomm
+# ############################################
+Origin: vicharak-apt-stable 
+Label: vicharak-apt-qualcomm-main
 Suite: stable
-Codename: stable-axon
+Codename: stable-qcsmain
 Architectures: arm64
-Components: axon
-Description: APT repository for Axon specific packages
-SignWith: D27B9F61267923BBBD0EC959D94C5810670A1D0C
+Components: stable-qualcomm/qcsmain
+Description: Qualcomm-specific packages
+SignWith: yes
 
-# Vaaman Specific Distribution
-Origin: vicharak apt
-Label: vicharak-apt-vaaman
+
+############################################
+# stable-qualcomm
+# ############################################
+Origin: vicharak-apt-stable 
+Label: vicharak-apt-qualcomm
 Suite: stable
-Codename: stable-vaaman
+Codename: stable-qcs6490-main
 Architectures: arm64
-Components: vaaman
-Description: APT repository for Vaaman specific packages
-SignWith: D27B9F61267923BBBD0EC959D94C5810670A1D0C
+Components: stable-qualcomm/qcs6490/main
+Description: Qualcomm-specific packages
+SignWith: yes
 
+
+############################################
+# stable-qualcomm
+# ############################################
+Origin: vicharak-apt-stable 
+Label: vicharak-apt-qcs6490-axon-mini
+Suite: stable
+Codename: stable-qcs6490-axon-mini
+Architectures: arm64
+Components: stable-qualcomm/qcs6490/axon-mini/main
+Description: Qualcomm-specific packages
+SignWith: yes
+
+
+##############################################
+# stable-qualcomm
+# ############################################
+Origin: vicharak-apt-stable 
+Label: vicharak-apt-qcs6490-axon-mini-ubuntu-jammy
+Suite: stable
+Codename: stable-qcs6490-axon-mini-ubuntu-jammy
+Architectures: arm64
+Components: stable-qualcomm/qcs6490/axon-mini/ubuntu/jammy
+Description: Qualcomm-specific packages
+SignWith: yes
+
+
+##############################################
+# stable-qualcomm
+# ############################################
+Origin: vicharak-apt-stable
+Label: vicharak-apt-qcs6490-axon-mini-ubuntu-noble
+Suite: stable
+Codename: stable-qcs6490-axon-mini-ubuntu-noble
+Architectures: arm64
+Components: stable-qualcomm/qcs6490/axon-mini/ubuntu/noble
+Description: Qualcomm-specific packages
+SignWith: yes
+
+
+############################################
+# stable-rockchip -> main
+############################################
+Origin: vicharak-apt-stable
+Label: vicharak-apt-rockchip
+Suite: stable
+Codename: stable-rkmain
+Architectures: arm64
+Components: stable-rockchip/rkmain
+Description: Rockchip-specific packages
+SignWith: yes
+
+
+############################################
+# Rockchip -> RK3399 -> main
+############################################
+Origin: vicharak-apt-stable 
+Label: vicharak-apt-rockchip
+Suite: stable
+Codename: stable-rk3399-main
+Architectures: arm64
+Components: stable-rockchip/rk3399/main
+Description: Rockchip-specific packages
+SignWith: yes
+
+
+############################################
+# Rockchip -> RK3399 -> Vaaman -> main
+############################################
+Origin: vicharak-apt-stable
+Label: vicharak-apt-rockchip
+Suite: stable
+Codename: stable-rk3399-vaaman-main
+Architectures: arm64
+Components: stable-rockchip/rk3399/vaaman/main
+Description: Rockchip-specific packages
+SignWith: yes
+
+
+##########################################################
+# Rockchip -> RK3399 -> Vamaan -> Ubuntu -> main 
+##########################################################
+Origin: vicharak-apt-stable 
+Label: vicharak-apt-rk3399-vaaman-ubuntu-main
+Suite: stable
+Codename: stable-rk3399-vaaman-ubuntu-main
+Architectures: arm64
+Components: stable-rockchip/rk3399/vaaman/ubuntu/main
+Description: RK3399 Ubuntu Vaaman packages packages
+SignWith: yes
+
+
+####################################################
+# Rockchip -> RK3399 -> Vaaman -> Ubuntu -> Jammy 
+####################################################
+Origin: vicharak-apt-stable 
+Label: vicharak-apt-rk3399-vaaman-ubuntu-jammy
+Suite: stable
+Codename: stable-rk3399-vaaman-ubuntu-jammy
+Architectures: arm64
+Components: stable-rockchip/rk3399/vaaman/ubuntu/jammy
+Description: RK3399 Ubuntu Vaaman packages packages
+SignWith: yes
+
+
+###################################################
+# Rockchip -> RK3399 -> Vaaman -> Ubuntu -> Noble 
+# #################################################
+Origin: vicharak-apt-stable 
+Label: vicharak-apt-rk3399-vaaman-ubuntu-noble
+Suite: stable
+Codename: stable-rk3399-vaaman-ubuntu-noble
+Architectures: arm64
+Components: stable-rockchip/rk3399/vaaman/ubuntu/noble
+Description: RK3399 Ubuntu Vaaman packages packages
+SignWith: yes
+
+
+#################################################
+# Rockchip -> RK3399 -> Debian -> main 
+#################################################
+Origin: vicharak-apt-stable 
+Label: vicharak-apt-rockchip
+Suite: stable
+Codename: stable-rk3399-debian
+Architectures: arm64
+Components: stable-rockchip/rk3399/debian/main
+Description: RK3399 Rockchip-specific packages
+SignWith: yes
+
+
+############################################
+# Rockchip -> RK3588 -> main
+############################################
+Origin: vicharak-apt-stable 
+Label: vicharak-apt-rockchip
+Suite: stable
+Codename: stable-rk3588-main
+Architectures: arm64
+Components: stable-rockchip/rk3588/main
+Description: Rockchip-specific packages
+SignWith: yes
+
+############################################
+# Rockchip -> RK3588 -> Axon -> main 
+############################################
+Origin: vicharak-apt-stable 
+Label: vicharak-apt-rockchip
+Suite: stable
+Codename: stable-rk3588-axon-main
+Architectures: arm64
+Components: stable-rockchip/rk3588/axon/main
+Description: Rockchip-specific packages
+SignWith: yes
+
+
+###################################################
+# Rockchip -> RK3588 -> Axon -> Ubuntu -> main
+###################################################
+Origin: vicharak-apt-stable 
+Label: vicharak-apt-rk3588-axon-ubuntu-main
+Suite: stable
+Codename: stable-rk3588-axon-ubuntu-main
+Architectures: arm64
+Components: stable-rockchip/rk3588/axon/ubuntu/main
+Description: RK3588 Ubuntu Jammy Axon packages packages
+SignWith: yes
+
+
+###################################################
+# Rockchip -> RK3588 -> Axon -> Ubuntu -> Jammy 
+###################################################
+Origin: vicharak-apt-stable 
+Label: vicharak-apt-rkrk3588-axon-ubuntu-jammy
+Suite: stable
+Codename: stable-rk3588-axon-ubuntu-jammy
+Architectures: arm64
+Components: stable-rockchip/rk3588/axon/ubuntu/jammy
+Description: RK3588 Axon Noble Ubuntu packages
+SignWith: yes
+
+
+###################################################
+# Rockchip -> RK3588 -> Axon -> Ubuntu -> Noble 
+###################################################
+Origin: vicharak-apt-stable 
+Label: vicharak-apt-rk3588-axon-ubuntu-noble
+Suite: stable
+Codename: stable-rk3588-axon-ubuntu-noble
+Architectures: arm64
+Components: stable-rockchip/rk3588/axon/ubuntu/noble
+Description: RK3588 Axon Noble Ubuntu packages
+SignWith: yes
+
+
+#################################################
+# Rockchip -> RK3588 -> Debian -> main 
+#################################################
+Origin: vicharak-apt-stable 
+Label: vicharak-apt-rockchip
+Suite: stable
+Codename: stable-rk3588-debian
+Architectures: arm64
+Components: stable-rockchip/rk3588/debian/main
+Description: RK3588 Rockchip-specific packages
+SignWith: yes
+
+
+###########################################
+# Yocto 
+############################################
+Origin: vicharak-apt-stable 
+Label: vicharak-apt-stable
+Suite: stable
+Codename: stable-yocto
+Architectures: arm64
+Components: stable-yocto/main
+Description: Yocto Specific packages
+SignWith: yes
+
+
+####################################################
+# Yocto -> mickledore -> Rockchip -> main
+####################################################
+Origin: vicharak-apt-stable 
+Label: vicharak-apt-yocto-rk3399-main
+Suite: stable
+Codename: stable-yocto-mickledore-rkmain
+Architectures: arm64
+Components: stable-yocto/mickledore/rockchip/rkmain
+Description: Yocto Rockchip rk3399 packages
+SignWith: yes
+
+
+######################################################
+# Yocto -> mickledore -> Rockchip -> rk3399 -> main
+######################################################
+Origin: vicharak-apt-stable 
+Label: vicharak-apt-yocto-mickledore-rk3399-main
+Suite: stable
+Codename: stable-yocto-mickledore-rk3399-main
+Architectures: arm64
+Components: stable-yocto/mickledore/rockchip/rk3399/main
+Description: Yocto Rockchip rk3399 main packages
+SignWith: yes
+
+
+######################################################
+# Yocto -> mickledore -> Rockchip -> RK3399 -> vaaman 
+######################################################
+Origin: vicharak-apt-stable 
+Label: vicharak-apt-yocto-rk3399-vaaman
+Suite: stable
+Codename: stable-yocto-mickledore-rk3399-vaaman
+Architectures: arm64
+Components: stable-yocto/mickledore/rockchip/rk3399/vaaman
+Description: Yocto Rockchip rk3399 vaaman packages
+SignWith: yes
+
+
+######################################################
+# Yocto -> mickledore -> Rockchip -> rk3588 -> main
+######################################################
+Origin: vicharak-apt-stable 
+Label: vicharak-apt-yocto-rk3588-main
+Suite: stable
+Codename: stable-yocto-mickledore-rk3588-main
+Architectures: arm64
+Components: stable-yocto/mickledore/rockchip/rk3588/main
+Description: Yocto Rockchip rk3588 main packages
+SignWith: yes
+
+######################################################
+# Yocto -> mickledore -> Rockchip -> Rk3588 -> axon
+######################################################
+Origin: vicharak-apt-stable
+Label: vicharak-apt-yocto-rk3588-axon
+Suite: stable
+Codename: stable-yocto-mickledore-rk3588-axon
+Architectures: arm64
+Components: stable-yocto/mickledore/rockchip/rk3588/axon
+Description: Yocto Rockchip rk3588 axon packages
+SignWith: yes
