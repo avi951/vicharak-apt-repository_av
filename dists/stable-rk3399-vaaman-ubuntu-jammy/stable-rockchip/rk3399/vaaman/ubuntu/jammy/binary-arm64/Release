@@ -1,0 +1,6 @@
+Archive: stable
+Component: stable-rockchip/rk3399/vaaman/ubuntu/jammy
+Origin: vicharak-apt-stable
+Label: vicharak-apt-rk3399-vaaman-ubuntu-jammy
+Architecture: arm64
+Description: RK3399 Ubuntu Vaaman packages packages

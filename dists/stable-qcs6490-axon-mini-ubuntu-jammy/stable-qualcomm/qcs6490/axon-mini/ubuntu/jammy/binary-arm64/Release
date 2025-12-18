@@ -1,0 +1,6 @@
+Archive: stable
+Component: stable-qualcomm/qcs6490/axon-mini/ubuntu/jammy
+Origin: vicharak-apt-stable
+Label: vicharak-apt-qcs6490-axon-mini-ubuntu-jammy
+Architecture: arm64
+Description: Qualcomm-specific packages

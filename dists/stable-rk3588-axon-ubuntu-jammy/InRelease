@@ -1,0 +1,39 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: vicharak-apt-stable
+Label: vicharak-apt-rkrk3588-axon-ubuntu-jammy
+Suite: stable
+Codename: stable-rk3588-axon-ubuntu-jammy
+Date: Thu, 18 Dec 2025 11:37:32 UTC
+Architectures: arm64
+Components: stable-rockchip/rk3588/axon/ubuntu/jammy
+Description: RK3588 Axon Noble Ubuntu packages
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e 0 stable-rockchip/rk3588/axon/ubuntu/jammy/binary-arm64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 stable-rockchip/rk3588/axon/ubuntu/jammy/binary-arm64/Packages.gz
+ ccf6e9e1a6a10529e5902f6e2f750a42 210 stable-rockchip/rk3588/axon/ubuntu/jammy/binary-arm64/Release
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 stable-rockchip/rk3588/axon/ubuntu/jammy/binary-arm64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 stable-rockchip/rk3588/axon/ubuntu/jammy/binary-arm64/Packages.gz
+ 4da04790f5ee405def81a3f0e0d7a1ae02867d63 210 stable-rockchip/rk3588/axon/ubuntu/jammy/binary-arm64/Release
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 stable-rockchip/rk3588/axon/ubuntu/jammy/binary-arm64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 stable-rockchip/rk3588/axon/ubuntu/jammy/binary-arm64/Packages.gz
+ 652e241087d7abc03c2a87efd927ad4faa057f738d67fb9536e29b3ae0ace271 210 stable-rockchip/rk3588/axon/ubuntu/jammy/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEERvvdDv4HsMosT7ZlwEJICc2+ulkFAmlD53wACgkQwEJICc2+
+ulmY9g/+LCFEyQa3kp44XsxIKbUFOsjPMp4VdM+B+GD6P3+jiOvUiO4SGGsoEFY8
+xAi4BmYHcKGNoa2Qgqwtu3p63xJgMCOZ008TxpQws5ZAbwMpKZGUZ+317PHj31Mx
+XvceCaHclMYyhR3fl6zhXyirrCibPVOqVUJrQoilyrqjjdDggpNQPecO4MasOqus
+qpli2Dh1ZCvgeOc7P3RZU6A28SppuRc+Q0ACOro1a8ijEWPhvH/3EDpghBBk3zQB
+OoQspVBoBU5v6JJVPbOYL/JGOjNfaY5YFMgPQtiAtXTLlgvCzntE4VI2t6axRnQA
+qXR+uJc/twSx64/rPWtVGNhnw1278MdlpbAFhS9JVdPsPKCh/U50E15V1RuYqaHg
+tlEPPtoH1JQyoVYmSVnJzvsFZybfIpxgK0w488gZbDcWv7vbT3zuOwPTmC/gGinp
+lBSQCsDWHfs11fEXWGJ4Zrd60fsuGUcBL8RQEheJbPK208KbT0FATVkxz1N62wgJ
+BfSqew6d7DYE0SYLv4/XsV7A3L93bh9WvLNnccW+rVja/i7HK20eG5Q64cXgyyem
+qv+yXkkVnM9wkiNQ4SSbm7nxnh52OKR9e3jnrY34mP/CC4SRUvCS5sBDKnVjM1Gg
+qwUfcVe1oMoirGQbWRPDgZnok6I5eDtcDn8lEt9vTMBkAb68vvU=
+=mKt2
+-----END PGP SIGNATURE-----

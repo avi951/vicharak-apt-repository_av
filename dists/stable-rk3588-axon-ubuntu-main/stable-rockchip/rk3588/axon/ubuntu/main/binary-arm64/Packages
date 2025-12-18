@@ -1,0 +1,37 @@
+Package: camera-engine-rkaiq
+Source: camera-engine-rkaiq
+Maintainer: Caesar Wang <wxt@rock-chips.com>
+Build-Depends: debhelper (>= 9),
+               meson,
+               pkg-config,
+Standards-Version: 3.9.8
+Homepage: https://github.com/rockchip-linux/camera_engine_rkaiq
+Vcs-Git: https://github.com/rockchip-linux/camera_engine_rkaiq
+Vcs-Browser: https://github.com/rockchip-linux/camera_engine_rkaiq
+Architecture: arm64
+Depends: systemd
+Priority: optional
+Section: libs
+Filename: pool/stable-rockchip/rk3588/axon/ubuntu/main/c/camera-engine-rkaiq/camera-engine-rkaiq_5.0x4.1+ov5647-iqfile_arm64.deb
+Size: 2217416
+SHA256: 210c67388e24dc6921299834d3239ad7fc20b7dd8b92e142d8e32f8fa3b7801f
+SHA1: 19897ac7fa594193a2e2a196e702d63e7d69854c
+MD5sum: b5a484a41747191b793a55376ab4c0fd
+Description: 3A libraries match Rockchip rkisp v30(rk3588).
+Version: 5.0x4.1+ov5647-iqfile
+
+Package: vicharak-chat
+Version: 1.2.2~beta4
+Architecture: arm64
+Maintainer: Avi Shihora <avi.shihora.w23@gmail.com>
+Installed-Size: 83589
+Depends: python3-venv, git, build-essential, python3-dev, libpython3-dev
+Priority: optional
+Section: utils
+Filename: pool/stable-rockchip/rk3588/axon/ubuntu/main/v/vicharak-chat/vicharak-chat_1.2.2~beta4_arm64.deb
+Size: 24433038
+SHA256: 0b63b780055f90eae9147809f4fc06071cb2a9f0894bf9160a0fa79c2fc3cfd1
+SHA1: 3ce00d13848114c19496e446a175de1558d10075
+MD5sum: e43ac2b5e85146301a10bbca415235e1
+Description: vicharak-chat - A chatbot to run on axon to interact with various LLMs. A longer description explaining its purpose and usage.
+

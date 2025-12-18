@@ -1,0 +1,39 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: vicharak-apt-stable
+Label: vicharak-apt-yocto-mickledore-rk3399-main
+Suite: stable
+Codename: stable-yocto-mickledore-rk3399-main
+Date: Thu, 18 Dec 2025 11:37:32 UTC
+Architectures: arm64
+Components: stable-yocto/mickledore/rockchip/rk3399/main
+Description: Yocto Rockchip rk3399 main packages
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e 0 stable-yocto/mickledore/rockchip/rk3399/main/binary-arm64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 stable-yocto/mickledore/rockchip/rk3399/main/binary-arm64/Packages.gz
+ 8feeb039c3a60d96574f4054924bfc10 218 stable-yocto/mickledore/rockchip/rk3399/main/binary-arm64/Release
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 stable-yocto/mickledore/rockchip/rk3399/main/binary-arm64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 stable-yocto/mickledore/rockchip/rk3399/main/binary-arm64/Packages.gz
+ 0fe755721626aaaf3fc18d957b176008bac26326 218 stable-yocto/mickledore/rockchip/rk3399/main/binary-arm64/Release
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 stable-yocto/mickledore/rockchip/rk3399/main/binary-arm64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 stable-yocto/mickledore/rockchip/rk3399/main/binary-arm64/Packages.gz
+ c73e26b8a42d6c86e0a3d3590670070e886e07229885b05b2b4c87a4a9331133 218 stable-yocto/mickledore/rockchip/rk3399/main/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEERvvdDv4HsMosT7ZlwEJICc2+ulkFAmlD53wACgkQwEJICc2+
+uln0pA/9FBWOSFp72RJ4EiglahbEdVf591GEe+tw9XNxfAeS8kReyfE8/r7Sf/Yr
+vvGipS3CS0U8MVS3RMixOu3t2yRn/xVnBwdhC2o4X+L5/uozcz/BzZIa0FFrJbim
+POImr5qs0AZ9au6kWDZkV1S1cSP6NwjOyayD9DzWeK63DoxNUTMICzcHFhD2Zf9D
+Lsx9ZnZghbaCV6uqeN6Oxl1GrLow3x+UTNGrYn42NoaeSflkD4cSswFpuESFXXiv
+Dmc/DSK8cyEYdBuZ6zTDfuunswwtQPmpkQjapFEI9R+vSGeP/42b+i7QUG+MTnwe
+Zl7XoivOEYhg1TnUDGhZZdxnfKN9ibTwrsys37cp6GhGY9tFj8BIubBFGyAXhvRj
+y4Y60CEeI9h3iIcBAufzlAr8DBxMwacjDos5Uh4C0OxM5uDP1diV07QXDSCpQdqd
+WHzXTHD/A29NfTWS6S9CTM5D9EfDjqLHyiyGlhWc7ivVK/M+u8a8TVovDQaf4BUy
+/YnYd9l3jLR/o1iDVQkvmQCJYuKxx89WawxySWwmo/4lK6PkxlmlsnVzzaQjvjYi
+ECanDcLoe4tQzl0YWvs+//P6OZIKGib0aplrl4FoRzv9h/S+yLokPwZaukE0TpWz
+wE0bP0QLMMHkTaoJ/4foklUw/nkJpZk0xET6hcrEYuXvk9yC/V0=
+=WGt0
+-----END PGP SIGNATURE-----

@@ -1,0 +1,20 @@
+Origin: vicharak-apt-stable
+Label: vicharak-apt-rk3588-axon-ubuntu-noble
+Suite: stable
+Codename: stable-rk3588-axon-ubuntu-noble
+Date: Thu, 18 Dec 2025 12:55:25 UTC
+Architectures: arm64
+Components: stable-rockchip/rk3588/axon/ubuntu/noble
+Description: RK3588 Axon Noble Ubuntu packages
+MD5Sum:
+ 0730e2a54dac1ff10cd47407a073ba9c 17085 stable-rockchip/rk3588/axon/ubuntu/noble/binary-arm64/Packages
+ 20e07613a234d2644bdea504a5c30bc7 3904 stable-rockchip/rk3588/axon/ubuntu/noble/binary-arm64/Packages.gz
+ c3bd8efa1ed09970d235e86fe5ea0cd5 208 stable-rockchip/rk3588/axon/ubuntu/noble/binary-arm64/Release
+SHA1:
+ ecd6dcf56e7e51480d13bd95964de1c2956471e9 17085 stable-rockchip/rk3588/axon/ubuntu/noble/binary-arm64/Packages
+ 2925aa2731238030524013047caca7bd4f13ccb2 3904 stable-rockchip/rk3588/axon/ubuntu/noble/binary-arm64/Packages.gz
+ 843af67433f3ec6f026fa61c1fbaf414632872f5 208 stable-rockchip/rk3588/axon/ubuntu/noble/binary-arm64/Release
+SHA256:
+ 0ebb74418042a61347b8eba6b33a3fcfde089b91809bb950b6b11efe6f907f02 17085 stable-rockchip/rk3588/axon/ubuntu/noble/binary-arm64/Packages
+ 6a74f8e36609111fc50bb3e27c0afb18e36a471cbef48797ddcbbfabf54f9b1f 3904 stable-rockchip/rk3588/axon/ubuntu/noble/binary-arm64/Packages.gz
+ 44fe85775e2e70217fbe205f44a2d15e913c8b79078317f9e34a604d08973bbe 208 stable-rockchip/rk3588/axon/ubuntu/noble/binary-arm64/Release

@@ -1,0 +1,177 @@
+Package: rtk-hciattach
+Version: 1.0.0
+Architecture: arm64
+Maintainer: Avi Shihora <avi.shihora.w23@gmail.com>
+Installed-Size: 138
+Priority: optional
+Section: utils
+Filename: pool/stable-rockchip/rkmain/r/rtk-hciattach/rtk-hciattach_1.0.0_arm64.deb
+Size: 45652
+SHA256: 3ed84c9606a344def5f2d92e285150b63fb9d6d3d6b2720e43595724090d1c8d
+SHA1: 9e8780b5f1506f517810212f0afb8b38de1a11e2
+MD5sum: a2e789c9db85948cc9c9b71cd9ea2e22
+Description: Axon Testing Script package.
+
+Package: u-boot-menu
+Version: 5.0.5
+Architecture: all
+Maintainer: Jonas Smedegaard <dr@jones.dk>
+Installed-Size: 40
+Depends: linux-base, vicharak-config (>= 0.1.7)
+Suggests: flash-kernel
+Multi-Arch: foreign
+Homepage: https://github.com/suihkulokki/u-boot-menu
+Priority: optional
+Section: admin
+Filename: pool/stable-rockchip/rkmain/u/u-boot-menu/u-boot-menu_5.0.5_all.deb
+Size: 10732
+SHA256: bc32717e4c941fed48ab10312c58dc772b2b7a209280bba9f68375324e227a50
+SHA1: 2e15b428b3adb1fd705f012ff02c7687a5f9179b
+MD5sum: 4f950c1ff226acd447fba24393f8ef8b
+Description: u-boot menu update
+ Automatically create extlinux-style boot menu for u-boot. Boot menu
+ entries are automatically created for every kernel package when they are
+ installed.
+ .
+ When /boot is on a separate partition, the package flash-kernel may help
+ ensure that device-tree (dtb) files are made available to u-boot.
+
+Package: usb-gadget-manager
+Source: usb-gadget-manager
+Maintainer: AJIT SINGH <ajeetsinghchahar2@gmail.com>
+Build-Depends: debhelper (>=9)
+Standards-Version: 1.0.0
+Version: 1.0.0
+Architecture: all
+Priority: optional
+Section: utils
+Filename: pool/stable-rockchip/rkmain/u/usb-gadget-manager/usb-gadget-manager_1.0.0_all.deb
+Size: 9948
+SHA256: cd23b122265b662b06bf8646073dc4ec9299d1a28555b6f82be930d99d7e1790
+SHA1: ae493a247e976b66d6e6c215fda4435ea523d588
+MD5sum: cb304b07eb5854971089ac21f3eacddd
+Description: USB Gadget Manager
+ A tool to manage USB gadgets on Linux.
+
+Package: vicharak-config
+Version: 0.1.17
+Architecture: all
+Maintainer: "Vicharak Computers Pvt Ltd" <shailparmar26@gmail.com>
+Installed-Size: 205
+Depends: device-tree-compiler, gdisk, parted, rtk-hciattach, vicharak-user, pkexec | policykit-1 (<< 122-1), whiptail
+Suggests: x-terminal-emulator
+Priority: standard
+Section: admin
+Filename: pool/stable-rockchip/rkmain/v/vicharak-config/vicharak-config_0.1.17_all.deb
+Size: 34516
+SHA256: 99df8eefa6cdbcdad30bb974096c588f576f73db5eede5e7d8601b1a507b7627
+SHA1: 14ff709934e7c3fa636c53e64b405728f8fe9d5b
+MD5sum: 8eb7678cf14436ed0233c5c7f8e6c7a3
+Description: Vicharak system setup utility
+ Vicharak system setup utility (vicharak-config) provides an
+ user friendly menu to perform many essential
+ system configuration tasks.
+ It also provides an on-boot configuration service to allow customization.
+
+Package: vicharak-config-first-boot
+Source: vicharak-config
+Version: 0.1.17
+Architecture: all
+Maintainer: "Vicharak Computers Pvt Ltd" <shailparmar26@gmail.com>
+Installed-Size: 20
+Depends: vicharak-config (= 0.1.17)
+Priority: standard
+Section: admin
+Filename: pool/stable-rockchip/rkmain/v/vicharak-config/vicharak-config-first-boot_0.1.17_all.deb
+Size: 4848
+SHA256: c7f2150e71f9d416954f7833b1bd53c6fae95cc9388b6496409423febe03df7f
+SHA1: 55241970a35da02b7f1c6bbc5d92a055130a446b
+MD5sum: 6ee304ba7b724d5d1204ba5e0e13ed03
+Description: Vicharak config - First boot configuration
+ This package contains the default first boot script.
+
+Package: vicharak-config-thermal-governor-step-wise
+Source: vicharak-config
+Version: 0.1.17
+Architecture: all
+Maintainer: "Vicharak Computers Pvt Ltd" <shailparmar26@gmail.com>
+Installed-Size: 19
+Depends: vicharak-config (= 0.1.17)
+Priority: standard
+Section: admin
+Filename: pool/stable-rockchip/rkmain/v/vicharak-config/vicharak-config-thermal-governor-step-wise_0.1.17_all.deb
+Size: 4260
+SHA256: e7a8bdff594e8e66a81923b8b3e80992150c8195a6056e5442228f815bccbb67
+SHA1: a829ceb4fa21db47c012fdfaeb87302460dd665a
+MD5sum: 13de17f13c34ef2934385a7865a90b3f
+Description: Vicharak config - Set thermal_governor to step_wise
+ This package set thermal_governor to step_wise on boot.
+
+Package: vicharak-dao
+Version: 1.1.0
+Architecture: all
+Maintainer: Jay Trivedi <your.email@example.com>
+Installed-Size: 18776
+Homepage: https://github.com/yourusername/vicharak-dao
+Priority: optional
+Section: misc
+Filename: pool/stable-rockchip/rkmain/v/vicharak-dao/vicharak-dao_1.1.0_all.deb
+Size: 8190820
+SHA256: ce5b18984d6480b05596ab63011acfff06f0fc0d6186a9daf420034d67f71009
+SHA1: 9e557504e798e0e03901f3d9eeb467b72c5ed572
+MD5sum: 22f273dd627e5735011dd16d1fd418f7
+Description: Vicharak DAO Node.js and Python WebSocket Services
+ This package installs and configures Node.js service and Python WebSocket
+ server for Vicharak DAO application. It automatically handles dependencies
+ installation including Node.js, npm, Python, and required packages.
+ .
+ The package creates systemd services that automatically start on boot and
+ restart on failure, ensuring high availability of the DAO services.
+
+Package: vicharak-firmware
+Version: 0.1.4
+Architecture: all
+Maintainer: "UtsavBalar1231" <utsavbalar1231@gmail.com>
+Installed-Size: 2970
+Priority: optional
+Section: misc
+Filename: pool/stable-rockchip/rkmain/v/vicharak-firmware/vicharak-firmware_0.1.4_all.deb
+Size: 494580
+SHA256: e020bc919d4319639a3cba8147205df6f7fb1b17438c36abbca531d798f34425
+SHA1: 45512cdb0d88e4cca36705cdbc35c3668b8d384b
+MD5sum: 8ff6d163b38e6d2db47f11e7e5f809e3
+Description: Vicharak Custom Linux firmware
+ This package contains firmwares that are not
+ shipped by Debian.
+
+Package: vicharak-powermanagement
+Version: 1.0.0
+Architecture: arm64
+Maintainer: Pratiksha <pratikshathanki2501@gmail.com>
+Installed-Size: 86
+Depends: libc6 (>= 2.17), libncursesw6 (>= 6), libtinfo6 (>= 6)
+Priority: optional
+Section: utils
+Filename: pool/stable-rockchip/rkmain/v/vicharak-powermanagement/vicharak-powermanagement_1.0.0_arm64.deb
+Size: 12032
+SHA256: a9277fe3c15de01797364482450825b0c6718ea12822472a09d35a5903b64c8a
+SHA1: f089237e38f063194a03887f939613bfd9f68624
+MD5sum: 4d1dca7f829457fce029e0fc9be45631
+Description: Vicharak powermanagement tool is a TUI based power management tool.
+ It can be used to control CPU and GPU settings on Linux systems.
+
+Package: vicharak-user
+Version: 1.1.2
+Architecture: arm64
+Maintainer: Hrushiraj Gandhi <hrushirajg23@gmail.com>
+Installed-Size: 8368
+Depends: libcurl4
+Priority: optional
+Section: utils
+Filename: pool/stable-rockchip/rkmain/v/vicharak-user/vicharak-user_1.1.2_arm64.deb
+Size: 1506156
+SHA256: be951161613e21a312fe0e7ca76e5b67d4712ffee9ea0bdcd450a051195dd271
+SHA1: aec8281490aa21b7d16adf15167b631393027537
+MD5sum: be1bb110f623d8bb32df984b2ddf9810
+Description: Identifier for Vicharak boards
+

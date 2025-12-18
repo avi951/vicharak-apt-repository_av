@@ -1,0 +1,39 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: vicharak-apt-stable
+Label: vicharak-apt-stable
+Suite: stable
+Codename: stable
+Date: Thu, 18 Dec 2025 11:37:29 UTC
+Architectures: arm64
+Components: stable
+Description: Global stable packages
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e 0 stable/binary-arm64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 stable/binary-arm64/Packages.gz
+ 7808dbce449754928313e0fd270e9c97 145 stable/binary-arm64/Release
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 stable/binary-arm64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 stable/binary-arm64/Packages.gz
+ 105bbfd92a9903c253ed83ff0aef2762c601de12 145 stable/binary-arm64/Release
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 stable/binary-arm64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 stable/binary-arm64/Packages.gz
+ 9ef8518746d7701245e15d127ae35e6dec9a4d5b0ab4cb7b851787e1060d51af 145 stable/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEERvvdDv4HsMosT7ZlwEJICc2+ulkFAmlD53oACgkQwEJICc2+
+ulludg//WLMn07wLBzKWeQc0Duuq0ByG7fmiSqDqslIZYHKUHOVVOejM6ltKakJG
+wKEv7s9IKSmCFs0qWakRNbpltRlTdVzErZpr1PGG6v2YH/xiz8lLrAmpijtvZhAZ
+kBL4vg3i30t7Q2XNeVvsng5+IApvlE4Ps/s1Uvxk1qKnYuPn0KJ65yFpao8F1nYz
+wNumlk6WqkWKUXr25ukyD91WrYR+5yOKXQFAASvAOUNnYoRwE/qpLT1TaGKmZ4ab
+kRSfgtlpKsT+W4Ocqm+T8nraCuOqEUWwauWif+VZUWJk93IAvlPaQPjykPoPd6Ws
+pZzNfkd3kNSiidCNDXXN+6/lrV7XCriCYGqbqmmSAd5vSwO25TFVqs8jz+O9vuhY
+4kUmh/oyd/mJMH4tbx+y1gzLCCSzXUeE61g7CpWvYjtl70o6VyX7Gku8XwnvYPWE
+k2rJ6h0Tn1o+lgtmKEEwegs4cJRH6NZCVyhLu1ivWQ4bLZR8ufZc85UanHkIoWaA
+OL6kgDXH7GG5RyPWbkDId7R5KwjPSxJahi0ndw5AmQE3fcNaD1Jm5rn3KpePDM4e
+xUnKcyM9qL+oMOx+jqw6zaN8A/zdMN3e3hzzVqJqyPFq5r/wT1UvKOL4D2XW+g6I
+urXI0R8gdMGwFePkSlfMsVtr/AlJRdX3WmpXnvAD0LS8q6O8RYQ=
+=+ph9
+-----END PGP SIGNATURE-----

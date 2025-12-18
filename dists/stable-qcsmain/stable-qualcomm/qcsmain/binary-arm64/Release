@@ -1,0 +1,6 @@
+Archive: stable
+Component: stable-qualcomm/qcsmain
+Origin: vicharak-apt-stable
+Label: vicharak-apt-qualcomm-main
+Architecture: arm64
+Description: Qualcomm-specific packages

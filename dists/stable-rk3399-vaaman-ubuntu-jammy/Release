@@ -1,0 +1,20 @@
+Origin: vicharak-apt-stable
+Label: vicharak-apt-rk3399-vaaman-ubuntu-jammy
+Suite: stable
+Codename: stable-rk3399-vaaman-ubuntu-jammy
+Date: Thu, 18 Dec 2025 12:52:59 UTC
+Architectures: arm64
+Components: stable-rockchip/rk3399/vaaman/ubuntu/jammy
+Description: RK3399 Ubuntu Vaaman packages packages
+MD5Sum:
+ fc91493988b9e831dafb9a844888ebbc 5436 stable-rockchip/rk3399/vaaman/ubuntu/jammy/binary-arm64/Packages
+ 8996d488b9338626c3ef05e1cf7df6e4 2295 stable-rockchip/rk3399/vaaman/ubuntu/jammy/binary-arm64/Packages.gz
+ 749fc20d9d0192397fbe2439f3f7fb61 217 stable-rockchip/rk3399/vaaman/ubuntu/jammy/binary-arm64/Release
+SHA1:
+ 8f3e6350afbff201d8fea33e9ef61c17f313f0b4 5436 stable-rockchip/rk3399/vaaman/ubuntu/jammy/binary-arm64/Packages
+ b47d626fe9e3a2740c54510d506411a70bd4791a 2295 stable-rockchip/rk3399/vaaman/ubuntu/jammy/binary-arm64/Packages.gz
+ 9c0c0f54bf60b52beb0bf287dde3bfda0bf6948d 217 stable-rockchip/rk3399/vaaman/ubuntu/jammy/binary-arm64/Release
+SHA256:
+ e14027d0e9ddb465f9a5ba1bf40e1ba57e63f6b5ae6ab0764854e8a86bb93d90 5436 stable-rockchip/rk3399/vaaman/ubuntu/jammy/binary-arm64/Packages
+ d9e5b77edf8a13acd1b1cbcbb342d1e98a97d839f33fa21af16b0481c52de184 2295 stable-rockchip/rk3399/vaaman/ubuntu/jammy/binary-arm64/Packages.gz
+ 3be9f57829415eb15c6d01541a91a21362727cb988db534270a032d885e57315 217 stable-rockchip/rk3399/vaaman/ubuntu/jammy/binary-arm64/Release

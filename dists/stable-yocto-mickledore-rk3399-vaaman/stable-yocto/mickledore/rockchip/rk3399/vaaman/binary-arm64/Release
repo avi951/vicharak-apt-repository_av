@@ -1,0 +1,6 @@
+Archive: stable
+Component: stable-yocto/mickledore/rockchip/rk3399/vaaman
+Origin: vicharak-apt-stable
+Label: vicharak-apt-yocto-rk3399-vaaman
+Architecture: arm64
+Description: Yocto Rockchip rk3399 vaaman packages

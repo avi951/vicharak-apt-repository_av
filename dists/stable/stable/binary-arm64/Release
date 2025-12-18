@@ -1,0 +1,6 @@
+Archive: stable
+Component: stable
+Origin: vicharak-apt-stable
+Label: vicharak-apt-stable
+Architecture: arm64
+Description: Global stable packages

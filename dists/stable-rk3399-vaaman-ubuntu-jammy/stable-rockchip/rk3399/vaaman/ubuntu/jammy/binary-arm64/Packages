@@ -1,0 +1,112 @@
+Package: bitman
+Version: 0.0.2-0
+Architecture: arm64
+Maintainer: Shail Parmar <shailparmar26@gmail.com>
+Installed-Size: 69
+Priority: optional
+Section: utils
+Filename: pool/stable-rockchip/rk3399/vaaman/ubuntu/jammy/b/bitman/bitman_0.0.2-0_arm64.deb
+Size: 12220
+SHA256: fa630e71dcdc7569ecac86bce29ea997c31665f915ee8762e611fb7e79419d0f
+SHA1: cc051a29435341f927086c90214df26edd24ab1b
+MD5sum: e10dff0527041feb7b4e19d683d63f4b
+Description: Bitstream management tool for Vaaman
+ It includes a utility (`bitman`) and a shared library (`libbitman.so`).
+
+Package: blueman
+Version: 2.2.4-3
+Architecture: arm64
+Maintainer: Christopher Schramm <debian@cschramm.eu>
+Installed-Size: 3587
+Depends: libbluetooth3 (>= 4.91), libc6 (>= 2.17), dconf-gsettings-backend | gsettings-backend, python3 (<< 3.11), python3 (>= 3.10~), python3:any, dbus (>= 1.9.18), default-dbus-session-bus | dbus-session-bus, bluez (>= 5.48), bluez-obexd, python3-gi (>= 3.27.2), notification-daemon, librsvg2-common, gnome-icon-theme | mate-icon-theme | elementary-xfce-icon-theme | adwaita-icon-theme | papirus-icon-theme, libpulse-mainloop-glib0, gir1.2-gtk-3.0 (>= 3.22), gir1.2-gdkpixbuf-2.0, gir1.2-glib-2.0, gir1.2-pango-1.0, python3-cairo, python3-gi-cairo, gir1.2-ayatanaappindicator3-0.1, gir1.2-nm-1.0, policykit-1
+Recommends: pulseaudio-module-bluetooth
+Homepage: https://github.com/blueman-project/blueman
+Priority: optional
+Section: x11
+Filename: pool/stable-rockchip/rk3399/vaaman/ubuntu/jammy/b/blueman/blueman_2.2.4-3_arm64.deb
+Size: 1163676
+SHA256: 543952ab404f2aa61d9cb037bfb915632b098c01a2eebfb26de943ae9a195d30
+SHA1: c744a3ec38212d10b6efedf912aff0ebef7b7809
+MD5sum: b3edf9fd3542c4245c048d2bd5e91d55
+Description: Graphical bluetooth manager
+ Blueman is a GTK+ bluetooth management utility for GNOME using bluez D-Bus
+ backend.
+
+Package: periplex
+Version: 0.0.2
+Architecture: arm64
+Maintainer: vatsal <vhkevadiya15@gmail.com>
+Installed-Size: 117
+Depends: libxml2-dev, libcjson-dev, libsqlite3-dev, curl, libwebsockets-dev, libjson-c-dev, libssl-dev, libcurl4-gnutls-dev, rah-service (>= 1.2.0), vicharak-config (>= 0.1.6), linux-image-5.10.233-vaaman, bitman
+Conflicts: linux-image-5.10.160-vaaman, linux-image-5.10.226-vaaman, linux-image-5.10.228-vaaman, linux-image-5.10.230-vaaman
+Priority: optional
+Section: admin
+Filename: pool/stable-rockchip/rk3399/vaaman/ubuntu/jammy/p/periplex/periplex_0.0.2_arm64.deb
+Size: 26600
+SHA256: 45291d992036dffe64f18ffea1ccc188fbaabba2014428a9faf3c57871c583f2
+SHA1: 3bf8a3fb2d43bc1b9203e9467ef26a5a3246fb41
+MD5sum: fd22ca0eb87a62d0a49ce49a9e84ecd8
+Description: Generate peripherals on the demand
+ Periplex gives Users access to create peripherals to the existing board using the FPGA on vaaman.
+
+Package: rah-service
+Version: 1.2.1
+Architecture: arm64
+Maintainer: djkabutar <d.kabutarwala@yahoo.com>
+Installed-Size: 69
+Priority: optional
+Section: admin
+Filename: pool/stable-rockchip/rk3399/vaaman/ubuntu/jammy/r/rah-service/rah-service_1.2.1_arm64.deb
+Size: 14208
+SHA256: 649828b26f5dd00dbc1b2b117d0a18e9216fcd92b8a04a8b82a91f6b2def1182
+SHA1: 959c3900e1a1eb24d2f14976baf328b7bcd6150a
+MD5sum: ff19f14dea3bb6a73fbc04f83e986369
+Description: Communication layer between vicharak FPGA and processor,
+ This package provides the communication layer between the vicharak FPGA and the processor. It is a service that runs in the background and listens for commands from the processor and sends them to the FPGA. It also listens for responses from the FPGA and sends them to the processor. This package is required for the vicharak FPGA to function properly.
+
+Package: rkisp-engine
+Version: 2.2.1
+Architecture: arm64
+Maintainer: djkabutar <d.kabutarwala@yahoo.com>
+Installed-Size: 36531
+Priority: optional
+Section: admin
+Filename: pool/stable-rockchip/rk3399/vaaman/ubuntu/jammy/r/rkisp-engine/rkisp-engine_2.2.1_arm64.deb
+Size: 2262440
+SHA256: 9db5a64ca600989fc9d29b40b96effa229897409e9d55678a38e470ef51eda7b
+SHA1: 662456eafc5bb80a3e5d69ec6e28203a1f644930
+MD5sum: a1ae92302bf9be867119c838597b4665
+Description: RKISP for image processing on RK3399
+ This package provides the image server which will be run in background and apply changes to the raw images captured from camera if iqfile of the device is available in /etc/iqfiles.
+
+Package: vaaman-ctl
+Version: 0.0.1
+Architecture: arm64
+Maintainer: djkabutar <d.kabutarwala@yahoo.com>
+Installed-Size: 25
+Priority: optional
+Section: admin
+Filename: pool/stable-rockchip/rk3399/vaaman/ubuntu/jammy/v/vaaman-ctl/vaaman-ctl_0.0.1_arm64.deb
+Size: 5880
+SHA256: 725722a09d941f7b58dc427ddcf82987262d0e16fca154948a6bcf0244a79a31
+SHA1: ac8c192ae08184a57f2fc43fa05b468bee98dbd4
+MD5sum: deddefc5b833fc2269faced6113b4c15
+Description: Program bitstream onto the FPGA
+ This package provides control function i.e. uploading bitstream to the FPGA. It needs access of gpio and SPI controller in order to program bitstream.
+
+Package: vaaman-remote-upload
+Version: 1.0.8
+Architecture: arm64
+Maintainer: Gaurav Paliwal <paliwalgaurav141@gmail.com>
+Installed-Size: 58237
+Depends: python3-pyqt5 (>= 5.15)
+Recommends: avahi-daemon
+Priority: optional
+Section: admin
+Filename: pool/stable-rockchip/rk3399/vaaman/ubuntu/jammy/v/vaaman-remote-upload/vaaman-remote-upload_1.0.8_arm64.deb
+Size: 13255344
+SHA256: 89beb272d08c26b5a7eaf1dc56d3bdb154d6bbe01739fadbee80d5168e9fc86b
+SHA1: 46b322fd459a9fba64f0fa65e66dbde8d19fe8c8
+MD5sum: d85c130fae78e53c87d87a992f74646e
+Description: vaaman remote upload package.
+

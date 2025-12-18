@@ -1,0 +1,39 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: vicharak-apt-stable
+Label: vicharak-apt-rockchip
+Suite: stable
+Codename: stable-rk3588-axon-main
+Date: Thu, 18 Dec 2025 13:03:56 UTC
+Architectures: arm64
+Components: stable-rockchip/rk3588/axon/main
+Description: Rockchip-specific packages
+MD5Sum:
+ 38a5f8a232df2ed9b05ed6a546f89d91 11977 stable-rockchip/rk3588/axon/main/binary-arm64/Packages
+ 143684b86b7da11794322a196ea22b7c 2880 stable-rockchip/rk3588/axon/main/binary-arm64/Packages.gz
+ 2fca48a6230ce17c284216de140127d1 177 stable-rockchip/rk3588/axon/main/binary-arm64/Release
+SHA1:
+ f772fefa05542f178392f627ba2014ca3e06ed97 11977 stable-rockchip/rk3588/axon/main/binary-arm64/Packages
+ 4fbbc3f664fbd5581cf776219a81095365e8ea37 2880 stable-rockchip/rk3588/axon/main/binary-arm64/Packages.gz
+ 3b8be03f5de0e98c2341d9e44da0ddab6e6bf137 177 stable-rockchip/rk3588/axon/main/binary-arm64/Release
+SHA256:
+ 031d03d4b0c554dc7a40276185d0ff57409ad2847a8daafb9d172b2054b5a36d 11977 stable-rockchip/rk3588/axon/main/binary-arm64/Packages
+ 73a3cd3d37ebbfeb06136399f1331dbc0f13d8a5ace8cf93e513f696633ad283 2880 stable-rockchip/rk3588/axon/main/binary-arm64/Packages.gz
+ e81921e65f0f43c367ea8564c9d2b3951539b947684757c51ff1014cef84a120 177 stable-rockchip/rk3588/axon/main/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEERvvdDv4HsMosT7ZlwEJICc2+ulkFAmlD+7wACgkQwEJICc2+
+ullw4A/+N2mFPoDOFyHTFgWPkcVpgUHXJMHSRc8n9V3fkCwZU/ZGJjtbzY+u3K6b
+K2VzrH1/SUFonBkQy/TFIapuvlITZHKaT6zz52WQFfVxoekBuWhJtrxMhkm6BgTM
+VRNAofwvguYpBAjQ4caYqx8jt4wI/aB72Rfwio7Ldy+L48J7XLxQMFJbLLxlO7UM
++tUFRvWbTG7ThEkkOQAn2ajbAWSlIDNAXTvDkViimSgSQMA5vu3dP2dkUSZ5/ytj
+s8J7SvRURA5PQcyOX5hcyeLJgeVwLoZPPhAVeksktvlhM9CEQlIj1vvEFqzI0/rv
+7nNNDeV4JBLAd9nuWToqc8L5MAWSwUoaNKRYvrJ3el5UE1KEdicUibewBy9uyO2e
+zO+ZsU0JB6PjTxavOF0XPnW1Db3EruiAXaKEC1UIEuvSEW0H4CDFzh2yTtifSUrc
+cRbwWQ+OGZ97hqqqXBU9mIDIE8sT/MMvsAb33gfVjxSMp8CJLP3B+7u2Pf5Pw4HH
+XVLFCpn0Bj44NjfIm+AciuqY8dGEoc9STVJx0B33AhRd4caJkpGEGjebY286O3NW
+8rIaz4Y/iXh4NppUFhPgp/zLV86GbBh3szOPvZbiehHGCqh8+o8BAWcXfOOAeqIv
+WsswYlEuLAYumanEamxA5ABcUmZ42B49I7PEW52MIIOcOU7nS2k=
+=FrMz
+-----END PGP SIGNATURE-----

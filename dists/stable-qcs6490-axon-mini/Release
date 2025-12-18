@@ -1,0 +1,20 @@
+Origin: vicharak-apt-stable
+Label: vicharak-apt-qcs6490-axon-mini
+Suite: stable
+Codename: stable-qcs6490-axon-mini
+Date: Thu, 18 Dec 2025 11:37:30 UTC
+Architectures: arm64
+Components: stable-qualcomm/qcs6490/axon-mini/main
+Description: Qualcomm-specific packages
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e 0 stable-qualcomm/qcs6490/axon-mini/main/binary-arm64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 stable-qualcomm/qcs6490/axon-mini/main/binary-arm64/Packages.gz
+ f6926d482f70335986a9be767baabb8a 192 stable-qualcomm/qcs6490/axon-mini/main/binary-arm64/Release
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 stable-qualcomm/qcs6490/axon-mini/main/binary-arm64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 stable-qualcomm/qcs6490/axon-mini/main/binary-arm64/Packages.gz
+ b87a6740447505534789e2cd0d7638c989c423bc 192 stable-qualcomm/qcs6490/axon-mini/main/binary-arm64/Release
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 stable-qualcomm/qcs6490/axon-mini/main/binary-arm64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 stable-qualcomm/qcs6490/axon-mini/main/binary-arm64/Packages.gz
+ e0efae4817d81d3ee95f60ee0520c07f06e9e75dd4313c45d5ec028278f78590 192 stable-qualcomm/qcs6490/axon-mini/main/binary-arm64/Release

@@ -1,0 +1,6 @@
+Archive: stable
+Component: stable-yocto/mickledore/rockchip/rk3399/main
+Origin: vicharak-apt-stable
+Label: vicharak-apt-yocto-mickledore-rk3399-main
+Architecture: arm64
+Description: Yocto Rockchip rk3399 main packages

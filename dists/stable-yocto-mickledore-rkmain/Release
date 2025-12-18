@@ -1,0 +1,20 @@
+Origin: vicharak-apt-stable
+Label: vicharak-apt-yocto-rk3399-main
+Suite: stable
+Codename: stable-yocto-mickledore-rkmain
+Date: Thu, 18 Dec 2025 11:37:32 UTC
+Architectures: arm64
+Components: stable-yocto/mickledore/rockchip/rkmain
+Description: Yocto Rockchip rk3399 packages
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e 0 stable-yocto/mickledore/rockchip/rkmain/binary-arm64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 stable-yocto/mickledore/rockchip/rkmain/binary-arm64/Packages.gz
+ 03ebb7e6496b584db52e97dd25a45982 197 stable-yocto/mickledore/rockchip/rkmain/binary-arm64/Release
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 stable-yocto/mickledore/rockchip/rkmain/binary-arm64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 stable-yocto/mickledore/rockchip/rkmain/binary-arm64/Packages.gz
+ 9fc4c8f71f8007e7f267e628e2f49b50afa0628e 197 stable-yocto/mickledore/rockchip/rkmain/binary-arm64/Release
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 stable-yocto/mickledore/rockchip/rkmain/binary-arm64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 stable-yocto/mickledore/rockchip/rkmain/binary-arm64/Packages.gz
+ 79b407a6c1e669ec492611313db06e21bdee3bb5e5d72b02cfc9d8354177abb0 197 stable-yocto/mickledore/rockchip/rkmain/binary-arm64/Release

@@ -1,0 +1,20 @@
+Origin: vicharak-apt-stable
+Label: vicharak-apt-rockchip
+Suite: stable
+Codename: stable-rk3399-vaaman-main
+Date: Thu, 18 Dec 2025 12:28:44 UTC
+Architectures: arm64
+Components: stable-rockchip/rk3399/vaaman/main
+Description: Rockchip-specific packages
+MD5Sum:
+ 09195504439636cead7b87fbdb165aff 10831 stable-rockchip/rk3399/vaaman/main/binary-arm64/Packages
+ cb8a247f57ae320917ee023237b51c56 2641 stable-rockchip/rk3399/vaaman/main/binary-arm64/Packages.gz
+ b1c10777ce79811b8fe4fbefbe5222c7 179 stable-rockchip/rk3399/vaaman/main/binary-arm64/Release
+SHA1:
+ 1337e0b8155bedd7839605071abaeeed3d90a4f6 10831 stable-rockchip/rk3399/vaaman/main/binary-arm64/Packages
+ 6dac2385d31a8a25fd300b09682f89551f089684 2641 stable-rockchip/rk3399/vaaman/main/binary-arm64/Packages.gz
+ 795a6a854c1c4946e81af409d9029cd6469ca0ef 179 stable-rockchip/rk3399/vaaman/main/binary-arm64/Release
+SHA256:
+ f22a70aff3259c6cbbca5331509f25e38ecd2019cb736397d24abd527b81107e 10831 stable-rockchip/rk3399/vaaman/main/binary-arm64/Packages
+ ddf3a838df0dca34978be42e9c9724f0f152ca5b57add43a90f377c08c501bd0 2641 stable-rockchip/rk3399/vaaman/main/binary-arm64/Packages.gz
+ e582d8e33b7e418d830e119b7122c27e9c637a23de50551beec6af2eb688cfbc 179 stable-rockchip/rk3399/vaaman/main/binary-arm64/Release

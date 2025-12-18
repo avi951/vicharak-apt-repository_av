@@ -1,0 +1,39 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: vicharak-apt-stable
+Label: vicharak-apt-rk3588-axon-ubuntu-main
+Suite: stable
+Codename: stable-rk3588-axon-ubuntu-main
+Date: Thu, 18 Dec 2025 13:04:11 UTC
+Architectures: arm64
+Components: stable-rockchip/rk3588/axon/ubuntu/main
+Description: RK3588 Ubuntu Jammy Axon packages packages
+MD5Sum:
+ a4e3c72c4e2cafddac8aa29597a42b3e 1538 stable-rockchip/rk3588/axon/ubuntu/main/binary-arm64/Packages
+ 28a9b7223a58ac2645e47288fee4b924 812 stable-rockchip/rk3588/axon/ubuntu/main/binary-arm64/Packages.gz
+ 4508755c759dc714fefb0cb005774903 215 stable-rockchip/rk3588/axon/ubuntu/main/binary-arm64/Release
+SHA1:
+ d97ab159fa150de8fe367da2cb4531a1a03faad8 1538 stable-rockchip/rk3588/axon/ubuntu/main/binary-arm64/Packages
+ b395262b587027e781f27ef85ef0fa459ab2b132 812 stable-rockchip/rk3588/axon/ubuntu/main/binary-arm64/Packages.gz
+ f0c5eb73300a0d0a012f14c0292608936822abfc 215 stable-rockchip/rk3588/axon/ubuntu/main/binary-arm64/Release
+SHA256:
+ 9cd1cdf3ab4119987d6134a636ddbba1fc2999d83b5d87cec440a7f20f68dd1a 1538 stable-rockchip/rk3588/axon/ubuntu/main/binary-arm64/Packages
+ 74ce43afc62c3a0b29fa300705ebdf848debc8d2bed3501eb0dde67332786ca3 812 stable-rockchip/rk3588/axon/ubuntu/main/binary-arm64/Packages.gz
+ dac459f8f3a10be1592bce664815cff193e448624994f023c53bbb0dd8fc7fa9 215 stable-rockchip/rk3588/axon/ubuntu/main/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEERvvdDv4HsMosT7ZlwEJICc2+ulkFAmlD+8sACgkQwEJICc2+
+uln/UA/8CPqv8F62FXpYH20G6HXv0a1G5IPkDrKwmHs4F6XPrUfv20VuOYATIpeC
+x83VSa0rFclaN4+cvIZaM7xbqrv5+zSLajEQ3u6gLgTphlWnwBzV/mPqOpBrvsGm
+vH/391yqSc5oQW7keZlALs2/THxL2WtVFH4moddQ/i6n3DHE3ZB52XtpWxq3ev1C
+oPQXwonX6LfrKcyTwdTEH8GfCCqOYUSlrSOuWkSRyjPBHoMMDBUFHQz/CIF0jlPH
+QgdZKTMxzIheC5qd7mIRnYdtbu7MMJ2CPY82h2GPXQE/DpH38F7DkJAQvglmQdEH
+HVk4/bblxy+RHVOyrPZx/yYfUbij0atK0jt9HU4QSehVgqdFH8dPdGfUuVkQ1gm+
+mVb8MSLko3yJdDKLQUT2Lmzrf+evlrR+6dmHwdcWfbKVAhDAxAJGZBb1fD/Rtx2u
+Y3iTqNtUaDLV2KALXvC4GB32OTlKBDxFAyyVS2EpIGA6/Gf2qGadsuv38rpmapSY
+UC0/0wUVKIrjojXb76iKAfTEOsujymWZoUOu2sjGG8aXOkaxCMBRuFPCkbUOvf0j
+PM6wC+RFPDGqEXqO5FAJp4qBtrHzyX8LkbDH2zbG8NtFdS5XW6tQbMSrQRFwEupV
+8hhqGb+giT2ROK9MEfv4HDG+348cHcciHLRtFw3ahOMWWaeh4o8=
+=/WU0
+-----END PGP SIGNATURE-----

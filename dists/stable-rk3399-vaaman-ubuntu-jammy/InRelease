@@ -1,0 +1,39 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: vicharak-apt-stable
+Label: vicharak-apt-rk3399-vaaman-ubuntu-jammy
+Suite: stable
+Codename: stable-rk3399-vaaman-ubuntu-jammy
+Date: Thu, 18 Dec 2025 12:52:59 UTC
+Architectures: arm64
+Components: stable-rockchip/rk3399/vaaman/ubuntu/jammy
+Description: RK3399 Ubuntu Vaaman packages packages
+MD5Sum:
+ fc91493988b9e831dafb9a844888ebbc 5436 stable-rockchip/rk3399/vaaman/ubuntu/jammy/binary-arm64/Packages
+ 8996d488b9338626c3ef05e1cf7df6e4 2295 stable-rockchip/rk3399/vaaman/ubuntu/jammy/binary-arm64/Packages.gz
+ 749fc20d9d0192397fbe2439f3f7fb61 217 stable-rockchip/rk3399/vaaman/ubuntu/jammy/binary-arm64/Release
+SHA1:
+ 8f3e6350afbff201d8fea33e9ef61c17f313f0b4 5436 stable-rockchip/rk3399/vaaman/ubuntu/jammy/binary-arm64/Packages
+ b47d626fe9e3a2740c54510d506411a70bd4791a 2295 stable-rockchip/rk3399/vaaman/ubuntu/jammy/binary-arm64/Packages.gz
+ 9c0c0f54bf60b52beb0bf287dde3bfda0bf6948d 217 stable-rockchip/rk3399/vaaman/ubuntu/jammy/binary-arm64/Release
+SHA256:
+ e14027d0e9ddb465f9a5ba1bf40e1ba57e63f6b5ae6ab0764854e8a86bb93d90 5436 stable-rockchip/rk3399/vaaman/ubuntu/jammy/binary-arm64/Packages
+ d9e5b77edf8a13acd1b1cbcbb342d1e98a97d839f33fa21af16b0481c52de184 2295 stable-rockchip/rk3399/vaaman/ubuntu/jammy/binary-arm64/Packages.gz
+ 3be9f57829415eb15c6d01541a91a21362727cb988db534270a032d885e57315 217 stable-rockchip/rk3399/vaaman/ubuntu/jammy/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEERvvdDv4HsMosT7ZlwEJICc2+ulkFAmlD+SsACgkQwEJICc2+
+ulmz5A//Vrgqid4zQ5y28bNYT+SH0XMGejdW5BJmEsNYnEJSW2IPwVab6HZnpRmS
+bNh0CuOS9uElGSga7Y44ReAjUfjVKV9udtdRwO4zJhVpK8Hoth+6Jg/r+is1Jja1
+V2/kHrTlSSmJ7/VM2uK6p4tz3LbdB65MrHxjy1X6L7LVf3X1HqHuNgexfx38BMZu
+ga+cYfeXAPUFszqYj2N8RdZBpRTul2wN9LAX/9CEjYWZGGWS3ZhHEC+UUe4p2jfl
+Qub99INWeuZaTzIXyJaq5Bd2I8IO/5YKQRNVN9VCUznlJGFC+b0B+e6W5oqnolRI
+KAdg1NzAMwdwFnoJkZedT3sslmSbNp6aEoKmLiNU+xyKDegUuC2pmKZ7UOF4Vgfo
+EHzlUX39HAiUuBF9XnE4m4EZ3e5vobxa9Mkg6OQM27DO6Z1YKeMnqTrm9gjgX29J
+O3c2gVB+v+T6wxCg/HPQ4gvTZADUrzfEX/BlMlfwzOGkR0sFaPUUtSoNl3pVSge8
+AeknBErSkW4OvHxgILbwm+nO1sJWh1s6IILcwMavSJnSsQAM1/p1tsmjdp4v5ZcJ
+irIsCk6A+oDxATWQz4V0FpGGJ9o6ogEdZ8OxyfbEU//aeiakLdOAh3Q4B4LQzg+8
+5Y/lLTbsylbYgHeNFjSc7tsLFNCoUyCAiS5yTf6WCtCuA+TnTlA=
+=kJBP
+-----END PGP SIGNATURE-----

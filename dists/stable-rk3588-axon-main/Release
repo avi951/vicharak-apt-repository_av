@@ -1,0 +1,20 @@
+Origin: vicharak-apt-stable
+Label: vicharak-apt-rockchip
+Suite: stable
+Codename: stable-rk3588-axon-main
+Date: Thu, 18 Dec 2025 13:03:56 UTC
+Architectures: arm64
+Components: stable-rockchip/rk3588/axon/main
+Description: Rockchip-specific packages
+MD5Sum:
+ 38a5f8a232df2ed9b05ed6a546f89d91 11977 stable-rockchip/rk3588/axon/main/binary-arm64/Packages
+ 143684b86b7da11794322a196ea22b7c 2880 stable-rockchip/rk3588/axon/main/binary-arm64/Packages.gz
+ 2fca48a6230ce17c284216de140127d1 177 stable-rockchip/rk3588/axon/main/binary-arm64/Release
+SHA1:
+ f772fefa05542f178392f627ba2014ca3e06ed97 11977 stable-rockchip/rk3588/axon/main/binary-arm64/Packages
+ 4fbbc3f664fbd5581cf776219a81095365e8ea37 2880 stable-rockchip/rk3588/axon/main/binary-arm64/Packages.gz
+ 3b8be03f5de0e98c2341d9e44da0ddab6e6bf137 177 stable-rockchip/rk3588/axon/main/binary-arm64/Release
+SHA256:
+ 031d03d4b0c554dc7a40276185d0ff57409ad2847a8daafb9d172b2054b5a36d 11977 stable-rockchip/rk3588/axon/main/binary-arm64/Packages
+ 73a3cd3d37ebbfeb06136399f1331dbc0f13d8a5ace8cf93e513f696633ad283 2880 stable-rockchip/rk3588/axon/main/binary-arm64/Packages.gz
+ e81921e65f0f43c367ea8564c9d2b3951539b947684757c51ff1014cef84a120 177 stable-rockchip/rk3588/axon/main/binary-arm64/Release

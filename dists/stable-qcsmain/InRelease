@@ -1,0 +1,39 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: vicharak-apt-stable
+Label: vicharak-apt-qualcomm-main
+Suite: stable
+Codename: stable-qcsmain
+Date: Thu, 18 Dec 2025 11:37:30 UTC
+Architectures: arm64
+Components: stable-qualcomm/qcsmain
+Description: Qualcomm-specific packages
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e 0 stable-qualcomm/qcsmain/binary-arm64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 stable-qualcomm/qcsmain/binary-arm64/Packages.gz
+ 77bd6bb3ce428f972771a1f1454e6daf 173 stable-qualcomm/qcsmain/binary-arm64/Release
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 stable-qualcomm/qcsmain/binary-arm64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 stable-qualcomm/qcsmain/binary-arm64/Packages.gz
+ f34fd2293e0fcb29e82586756239f6eda0f787ed 173 stable-qualcomm/qcsmain/binary-arm64/Release
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 stable-qualcomm/qcsmain/binary-arm64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 stable-qualcomm/qcsmain/binary-arm64/Packages.gz
+ 8c80d1574795317fd392b0176b16e60f69e2fbbe923ab1cb51913b152330882a 173 stable-qualcomm/qcsmain/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEERvvdDv4HsMosT7ZlwEJICc2+ulkFAmlD53oACgkQwEJICc2+
+ulnUHxAAmtBv79yemWuGNYeVLKA1FMIOGkAZtZ3YwaF16oMsSnS4Rx1lKqV1bXaK
+l2S34ApCbWvxr13yi7rJ1XXDY0lYoGGpRDN1Ls/tNGkSgiW96IIbKq/VY9pkns4u
+OotlZuOhoWG1IVdUlO+f62FTzxGVvG7fBqwfy3e2rT+n84vyF7V4ht58DUEQIUPm
+PzQtPO7se+oUrSkgkIPfCX7dqjbmLZwcj+BDwWINQpGA2rMK5mlzMhEmyzpVyKy4
+WrHXH3PmEnAZl7bN0l4+SOubqbgfx7WBYAEfKb0saZ5fJR2UAI+M2g3ial7qdj0t
+K9+TYcgJ/481G0hrw70HADsU5g9io+wViCyButhY6Enthmguw10vjBFkmttkYqji
+PCSmRhASYKjorcFTIDH0Uqj+OZptGkOqxHMWCYlLQ5l3o7RDV3IrmvmVtXNN4wgE
+tA55ulcziozYVtUfN30QF/1ca36jVE/7mFGrr22+Qsm9ayI7ntTczttG4rzWJc+a
+KPb1ExMgBFdr4FfCKZ5CyBRgJWgBiNS8t9kjswcBZyyW1GJw0vpVxWtQ0H90hlZ/
+D+SxH5FGi8pCBb1vQ8Vf842cQ2eAgrU9FewEYrcPJBvdiKvSyrxqxzxq9KvitE9g
+Dx8JMuhNUBsvPOy+ccVu9ryekJo9KDy5Ai2boFcP7FgFVUXaQV4=
+=ZjiJ
+-----END PGP SIGNATURE-----

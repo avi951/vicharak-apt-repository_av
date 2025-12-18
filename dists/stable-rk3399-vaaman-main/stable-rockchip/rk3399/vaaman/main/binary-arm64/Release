@@ -1,0 +1,6 @@
+Archive: stable
+Component: stable-rockchip/rk3399/vaaman/main
+Origin: vicharak-apt-stable
+Label: vicharak-apt-rockchip
+Architecture: arm64
+Description: Rockchip-specific packages

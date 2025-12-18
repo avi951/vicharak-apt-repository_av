@@ -1,0 +1,39 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: vicharak-apt-stable
+Label: vicharak-apt-rk3399-vaaman-ubuntu-noble
+Suite: stable
+Codename: stable-rk3399-vaaman-ubuntu-noble
+Date: Thu, 18 Dec 2025 11:37:31 UTC
+Architectures: arm64
+Components: stable-rockchip/rk3399/vaaman/ubuntu/noble
+Description: RK3399 Ubuntu Vaaman packages packages
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e 0 stable-rockchip/rk3399/vaaman/ubuntu/noble/binary-arm64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 stable-rockchip/rk3399/vaaman/ubuntu/noble/binary-arm64/Packages.gz
+ 0015bd1d2aa134ee14eee779690c9d46 217 stable-rockchip/rk3399/vaaman/ubuntu/noble/binary-arm64/Release
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 stable-rockchip/rk3399/vaaman/ubuntu/noble/binary-arm64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 stable-rockchip/rk3399/vaaman/ubuntu/noble/binary-arm64/Packages.gz
+ 3f5556a65f8c7da2c0af5558ffc717ca3a9a02ff 217 stable-rockchip/rk3399/vaaman/ubuntu/noble/binary-arm64/Release
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 stable-rockchip/rk3399/vaaman/ubuntu/noble/binary-arm64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 stable-rockchip/rk3399/vaaman/ubuntu/noble/binary-arm64/Packages.gz
+ 9d01fc54bde91303194c0042277eec8aa5c89655c35688e3afe9011e27c2f28e 217 stable-rockchip/rk3399/vaaman/ubuntu/noble/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEERvvdDv4HsMosT7ZlwEJICc2+ulkFAmlD53sACgkQwEJICc2+
+ulltLA/6A1XT14uIFoDYd6rKrCoFg3jJUYbEmVwI3B+/MF6oPKxujBlxRlZBqOGF
+nopvRcXNXOI6YVXrSuFUK73OobwiuZ0do+oqGtdW5KhDEopoljmEC/RW1TFRW2I+
+x8j5PlxRMs6DDHaHRanCaew1jcNIMG9hZKJ8aksXD4j1Kp7SrSUm6YrUL2tUaWo6
+NnhVcU4BLsawOxEtCLYmw5J9LU5RwzZ5tQRSDfr/SP4fceNKema0R33ya0b8ex1P
+mT1sGYDBSjA99zW654z63doqwTpX+tmpVSizDHe5IBNg4NAHJvnKVlAy26hRx6UM
+ElIZJBa4i9se6EESTm0G2cqSB2RmZLHR+udxtCoRuP8rNc5LlGpEj1KvEd8/MvKc
+74Amy+Ty/CgtT/HeK+qSDTeK0sfADVoMp3I4jucAaWSIdRyGTxaCrSwZPcBeiTfW
+poXQM41Sv1E7p/Fjm8g6GlOg5mSPuFyMt7gYDQW/mI7TlRA8Af+Ir6X2yWsZmZAX
+vgtcLus/ZK8O+Tk3v2N7QrjGvmL6iNv7NNTblZ36PqQHA08CF7ELIN4wxMLYcZEY
+BgWscY3MXoPT+Ufnij2MPXfwmpu338vB6m+Lhb/O/tjC/xnkf6Kat9bhpfzfHPTY
+QsSmNqMNL24LNNekpcwtZXL/5CbYKaiJEJYgRJymQvBe/1j+RTY=
+=g5Tf
+-----END PGP SIGNATURE-----

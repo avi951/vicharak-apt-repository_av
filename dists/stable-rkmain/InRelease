@@ -1,0 +1,39 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: vicharak-apt-stable
+Label: vicharak-apt-rockchip
+Suite: stable
+Codename: stable-rkmain
+Date: Thu, 18 Dec 2025 12:51:38 UTC
+Architectures: arm64
+Components: stable-rockchip/rkmain
+Description: Rockchip-specific packages
+MD5Sum:
+ 85f6a67c9eb4c56a6d5a32f15f654c9a 6660 stable-rockchip/rkmain/binary-arm64/Packages
+ e7e521600148c0a43242ee37ff40a082 2642 stable-rockchip/rkmain/binary-arm64/Packages.gz
+ ffbff7337eafa62409e44a6cbcbd6c83 167 stable-rockchip/rkmain/binary-arm64/Release
+SHA1:
+ b63e64d60e3715f2b5b77364c55f3a611d234f99 6660 stable-rockchip/rkmain/binary-arm64/Packages
+ 1e089e7a61fbb8482c1bde27172a26bb64ba1e3f 2642 stable-rockchip/rkmain/binary-arm64/Packages.gz
+ e27681234ea679b9fe7d599eb2f7872a8221285b 167 stable-rockchip/rkmain/binary-arm64/Release
+SHA256:
+ e14fc4d464a8316482476b4067f10574ef54bc42a01279dd9f5305fd72bc18ce 6660 stable-rockchip/rkmain/binary-arm64/Packages
+ 5b70c44e9b9bf281ec6c5d4cdf974d32767ffc5be8e466f96a559c1892b9bcda 2642 stable-rockchip/rkmain/binary-arm64/Packages.gz
+ ef5b556f3c454ab53240bce189887ec3a160f6c5254fa597b9ba08576d3ca15f 167 stable-rockchip/rkmain/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEERvvdDv4HsMosT7ZlwEJICc2+ulkFAmlD+NoACgkQwEJICc2+
+ulmjCxAAkYltX4dl8+kzSN7LEd17F7boXFtW9EHUm/18aqoXp56GOihn5QrqXZjJ
+2TA9dxyjS7MW2COx3n0j8Cfc5/3ym8bQkAJt/hLJSfpJcLDnyDs+fpzZgXr3HbTI
+FVgGxxJXSibEL+tYSX8wDkmlqh1QBlfxBoC/DdkDGf2Id7VoH+P3gkAtmKmwIdbK
+ADVKDSihVrx9QP8Esc2kVn1EU9XQDarCL7SZKyrhzvLzHLAxlRESUBJXO9Gkznuf
+hDFeoBDhhtjovl8pPPiblE6CKdKcPMGfnJ57ey1swMelQgKiz+8avNs0QIER8HYS
+8Vl7VtzqqIs7ckGGPvj7fo7BP1iHn9aZ/XGDmLfi+Y4+OSUeWphBW8d75avXit3o
+l9ao0r60pQEQoeyQq8g/Ct/zh4nqhmJYlU4EpssCD0OALEgWmjgsuOCOMbVOCneb
+bxhGL+keYYmWjxIdPl6nWYA0cOrHC8yYYPXGH/1c2acgA3lDzPbxv8NJ5w3jiD/t
+Brn5rOmDLOXbF7C/AqL+AoX9m52vCZuTX3pGBYKUyLWUbU6OLg3GicDkiSo4GeDB
+Q/97GgF0sV3xEeetECXiaL51th2QHvx0RVUz2RT9cOil82+89CNP4DVdPkKosGAX
+pMPSfip0cNuvl9pXcRf1VKAH1KdHfjPLyfoXZOydW40Esv2OhQs=
+=RajC
+-----END PGP SIGNATURE-----

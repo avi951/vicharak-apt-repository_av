@@ -1,0 +1,6 @@
+Archive: stable
+Component: stable-rockchip/rk3588/axon/ubuntu/noble
+Origin: vicharak-apt-stable
+Label: vicharak-apt-rk3588-axon-ubuntu-noble
+Architecture: arm64
+Description: RK3588 Axon Noble Ubuntu packages

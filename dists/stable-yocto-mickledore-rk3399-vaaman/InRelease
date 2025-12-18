@@ -1,0 +1,39 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: vicharak-apt-stable
+Label: vicharak-apt-yocto-rk3399-vaaman
+Suite: stable
+Codename: stable-yocto-mickledore-rk3399-vaaman
+Date: Thu, 18 Dec 2025 11:37:32 UTC
+Architectures: arm64
+Components: stable-yocto/mickledore/rockchip/rk3399/vaaman
+Description: Yocto Rockchip rk3399 vaaman packages
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e 0 stable-yocto/mickledore/rockchip/rk3399/vaaman/binary-arm64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 stable-yocto/mickledore/rockchip/rk3399/vaaman/binary-arm64/Packages.gz
+ 8cf93ab44b1163493187e87f0be29790 213 stable-yocto/mickledore/rockchip/rk3399/vaaman/binary-arm64/Release
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 stable-yocto/mickledore/rockchip/rk3399/vaaman/binary-arm64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 stable-yocto/mickledore/rockchip/rk3399/vaaman/binary-arm64/Packages.gz
+ 633dc4c88f5c5012b9acfead8d749b8410a24094 213 stable-yocto/mickledore/rockchip/rk3399/vaaman/binary-arm64/Release
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 stable-yocto/mickledore/rockchip/rk3399/vaaman/binary-arm64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 stable-yocto/mickledore/rockchip/rk3399/vaaman/binary-arm64/Packages.gz
+ ddbcbd5cd3ac9d40f7bb2dfd8794c74e9bed3d47c325d55ac3caaa5e43fc3152 213 stable-yocto/mickledore/rockchip/rk3399/vaaman/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEERvvdDv4HsMosT7ZlwEJICc2+ulkFAmlD53wACgkQwEJICc2+
+ulmaAxAAlaNHzwY+jI4poLImU9uFFzkPxn7/Wm6bujo4fk3tKSbYlanD+qmJ4Omw
+HJDCsKZIn+TXiBk3d+qk79kW7lyAIEbqINfxnNwqWXzQVbeu7rHrRiP6/p910CIN
+OslR/UjMCXPVhtPgII2z43uYflPa04bwb4cMrV8kIN35FFVytwlFLr9h1ofsZtKr
+Qtg2iT6zwDOIsN2tG8AJ0UjTmDLfn6q/BnaIhvDaPjhwL5rO+2Rk2zkhKX3NzrEC
+zCM0oni6XgY3UabtVNNx85wKYU7Xx3Cd0o1qoeZD233ghwwtXogl/6LUMSJIlrN4
+oFS6cRxRkfznxjIkFFBNh3hw8LuViwV/jDeyw0feCqB/yqObUg9ANFtqisis4vQ+
+Vfy2NakdgP863n3ZZj63EE8QBms7hYRQ0nC/w51abqcLmI7SxvxN5+TlIv6kPNGk
+Lr9Fz7LU8b3WDOl526cJOrK/y5tvQL0783fVBB0tIXSrqvNQzjrlJ/yOZMfzrJuZ
+6OdhzFsSgHdyDF8Qi/PyXD8MXbog1e2IJDyr5mmoxixjF0h+mkf7Bvr6Q+RTx4+0
+T70Hb/TGYsWkKqrm4eLGQX6MNHnXs8DXUpkbvWibc2dr+OBV1kcm4hMj0nvx9DGb
+GpCkpPPZyHGLcGyOo1M/ruuGGREJQ3qvomGk/QPSF4r7A9p1TD8=
+=1ZxB
+-----END PGP SIGNATURE-----

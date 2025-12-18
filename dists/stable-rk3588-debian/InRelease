@@ -1,0 +1,39 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: vicharak-apt-stable
+Label: vicharak-apt-rockchip
+Suite: stable
+Codename: stable-rk3588-debian
+Date: Thu, 18 Dec 2025 11:37:32 UTC
+Architectures: arm64
+Components: stable-rockchip/rk3588/debian/main
+Description: RK3588 Rockchip-specific packages
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e 0 stable-rockchip/rk3588/debian/main/binary-arm64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 stable-rockchip/rk3588/debian/main/binary-arm64/Packages.gz
+ 1d3a507997aab3285547c54c95bb5585 186 stable-rockchip/rk3588/debian/main/binary-arm64/Release
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 stable-rockchip/rk3588/debian/main/binary-arm64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 stable-rockchip/rk3588/debian/main/binary-arm64/Packages.gz
+ ffec05c62a2f056262fcfd6675929172ad8efa38 186 stable-rockchip/rk3588/debian/main/binary-arm64/Release
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 stable-rockchip/rk3588/debian/main/binary-arm64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 stable-rockchip/rk3588/debian/main/binary-arm64/Packages.gz
+ f191657adf094528fb14cd7777d34b26b222d0ff139c8ea0740725ea1a99d68a 186 stable-rockchip/rk3588/debian/main/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEERvvdDv4HsMosT7ZlwEJICc2+ulkFAmlD53wACgkQwEJICc2+
+ulk6rg/+LG/MV8tlHsX8LMC0MfqJ5iaFaWagffOSTvuTO/0XjOW8KOugCrrjjfhS
+e0Ns17MZK+4d/jH/PGIQlwr3Hd/0ZApwKyU9zlZLSaqGu8fob2rCnFKWiSrK66uZ
++PUxAI6qw0fAH6Ebl20dDXgfKiMoewrX6LjdA4W80R8VatE7rFBOvQowuPbD5cho
+3Zd4PDB8QMhvAJFfP7ZJoKeIV8DGxalnOxn9aSkNt/+jY7JGRYFUOqR9IsfXqoXQ
+JGuST9GSQ/sU9uP7OH8BtTCoJMZa1WqE+ONxmqoxTfsY6AbDEfieHByylPB82HPy
+VsO832KG7eXe6rWk89pp1hwKXYoVdqS3ntNs13QHBAG2jBK6sX3gV3qlmDBKy4+r
+hEbLl3/cTMldMGnvvVf4tFh7/PTZYwEGRtz4LtuKhU0PFISYCacuhO5f5UOr2Jd4
+gHPDAtZFoZOv7mp2hhnda+X4/6vBj0OC+qVrLXx7lGFoL5aHikTHdpBZYRmEqEMR
+1dulVp1e1vXvxoqbBAuhRHVxLPbn6CvOjxwf75FMKju9+k8AJzVq+P1LrNyKXTBe
+kn//aP0m+8P/1BJKK4lpG/mQ5c5SUU0BEKXOZKw8/SmPkqW75Ia/8kU2KvmAhT9O
+Cl27FJCgciW+5/xPp4Yn/aPf0IyeHTg5xxN0rUwD25XZSE9Gi+E=
+=e1Ch
+-----END PGP SIGNATURE-----

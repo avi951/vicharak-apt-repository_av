@@ -1,0 +1,6 @@
+Archive: stable
+Component: stable-yocto/mickledore/rockchip/rk3588/axon
+Origin: vicharak-apt-stable
+Label: vicharak-apt-yocto-rk3588-axon
+Architecture: arm64
+Description: Yocto Rockchip rk3588 axon packages

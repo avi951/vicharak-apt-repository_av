@@ -1,0 +1,6 @@
+Archive: stable
+Component: stable-rockchip/rk3399/debian/main
+Origin: vicharak-apt-stable
+Label: vicharak-apt-rockchip
+Architecture: arm64
+Description: RK3399 Rockchip-specific packages

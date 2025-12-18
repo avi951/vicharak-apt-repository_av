@@ -1,0 +1,39 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: vicharak-apt-stable
+Label: vicharak-apt-yocto-rk3588-axon
+Suite: stable
+Codename: stable-yocto-mickledore-rk3588-axon
+Date: Thu, 18 Dec 2025 11:37:33 UTC
+Architectures: arm64
+Components: stable-yocto/mickledore/rockchip/rk3588/axon
+Description: Yocto Rockchip rk3588 axon packages
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e 0 stable-yocto/mickledore/rockchip/rk3588/axon/binary-arm64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 stable-yocto/mickledore/rockchip/rk3588/axon/binary-arm64/Packages.gz
+ 3e92fdbcac0543f3d2c67d55960dbe76 207 stable-yocto/mickledore/rockchip/rk3588/axon/binary-arm64/Release
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 stable-yocto/mickledore/rockchip/rk3588/axon/binary-arm64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 stable-yocto/mickledore/rockchip/rk3588/axon/binary-arm64/Packages.gz
+ ff9176ea536ed3712d1476805d97c0b349c3d29a 207 stable-yocto/mickledore/rockchip/rk3588/axon/binary-arm64/Release
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 stable-yocto/mickledore/rockchip/rk3588/axon/binary-arm64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 stable-yocto/mickledore/rockchip/rk3588/axon/binary-arm64/Packages.gz
+ 26295032f0897dca7b0b980ddc11aee4a5420165af83c4a9763623c6b6d9fb94 207 stable-yocto/mickledore/rockchip/rk3588/axon/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEERvvdDv4HsMosT7ZlwEJICc2+ulkFAmlD530ACgkQwEJICc2+
+ulnYxg/9Hrewbz/ZBXNfFsb9D3pDtEjmyDETq/w3KGGC5xNGlov5tqDrdPWe7tIa
+yB6FUv0kSWHpnmg5sfPKMs8d4DOL7uhEYFS2H7jDFf7K1Nzg1c70U4LrNWkC1VFL
+xeYVfSBOJHlrT3nrT78mgkUs0D27GlXjdlL784vKut2Pjcj3NgH8T0kzegxPv3ya
+pRoWHD/wgCBM2QnSJohKxDr7wbtmQhm8BJR7/KPYTq7dZ1ELvn4Vzi+KTyVS/3Hg
+DpCL6Bot0lw2oz8DFQAxGEMsHspFAR8RWEX5/fYKfD5ktyfCjN7HGZfeRMJgp6lP
+b5vnUdkn/ZRUkhjTWY9Yr1cmG1v8Gv2B8BeLQKATYB1xbs9vNrwErDTxvquKfinM
+qUUPCBb/8G+H5RTxku4GVMmymBZqHWesfNhZWEHP9uTI9elWjAifB4Ym9SW7GYox
+j5crmF4UDPA6eL7JorjeYoPsIdYIMxgk03C7yQFlX9dpz9bZNzK1jl6z4QSL83wp
+lHd5Qg7aYqdyxDx+LAwz+yEu7ed9EfL4sDlfnoEh3WNQg8Rsp5p3rb76fJ39dLcT
+739bAtDlJ4Bmbwy2vZ22NVlsYgE7rc+JUNP9Bbkb6C05/rgvBiRz9dQOcU5Hh+2Z
+UZqJrE2S01ZTgc1Kq248QmSPt6OtoWVsjpQRLLBaDWZ4XUq1EY8=
+=o7s1
+-----END PGP SIGNATURE-----

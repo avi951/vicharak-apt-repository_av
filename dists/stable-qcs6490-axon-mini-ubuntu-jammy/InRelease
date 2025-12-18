@@ -1,0 +1,39 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: vicharak-apt-stable
+Label: vicharak-apt-qcs6490-axon-mini-ubuntu-jammy
+Suite: stable
+Codename: stable-qcs6490-axon-mini-ubuntu-jammy
+Date: Thu, 18 Dec 2025 11:37:30 UTC
+Architectures: arm64
+Components: stable-qualcomm/qcs6490/axon-mini/ubuntu/jammy
+Description: Qualcomm-specific packages
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e 0 stable-qualcomm/qcs6490/axon-mini/ubuntu/jammy/binary-arm64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 stable-qualcomm/qcs6490/axon-mini/ubuntu/jammy/binary-arm64/Packages.gz
+ 60ed2ba96e6fa6acc2c0f30121ef5ee3 213 stable-qualcomm/qcs6490/axon-mini/ubuntu/jammy/binary-arm64/Release
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 stable-qualcomm/qcs6490/axon-mini/ubuntu/jammy/binary-arm64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 stable-qualcomm/qcs6490/axon-mini/ubuntu/jammy/binary-arm64/Packages.gz
+ c9dc854f2be7422906b634ab8aa32df09e23050f 213 stable-qualcomm/qcs6490/axon-mini/ubuntu/jammy/binary-arm64/Release
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 stable-qualcomm/qcs6490/axon-mini/ubuntu/jammy/binary-arm64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 stable-qualcomm/qcs6490/axon-mini/ubuntu/jammy/binary-arm64/Packages.gz
+ 301c2eefd40f4fa944e0d0139d23ac953cd44c525ea56dfc8a557abb2d4d89c1 213 stable-qualcomm/qcs6490/axon-mini/ubuntu/jammy/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEERvvdDv4HsMosT7ZlwEJICc2+ulkFAmlD53oACgkQwEJICc2+
+ulkCFQ/+LxT5dXwWcl64wV7Cyy8XGVLKYKcRJ2FsKSsFwVsHtvMvdP/0Fq5CPF5f
+qvZbi+KDC0y2k6iXY2FvzsWEvngXgH+4/IRaGvBIdKPIy/BX9jdkOhoehhRq+IkC
+V6PuXE2+28Ht/i5d+zszqRKWLHtbUPuxdKz1jZbGJ5UYByyKHNbBHwR/sBYXCauL
+SKSaW4Q1xVvbp+X3OvW62omRq2iMclkOT4ztm6+8pwLwZ56SPoIr3UjfxaIHBI62
+1OgJvafu7aoTrcqulG/9Po8zMZ1r7SWQRSYfEK7GSpTKikaZeeVy/+GvdL+x8Ay3
+F3zVFu5pV3wNxxbc4t/bzsoR8tx9A/1NdJ4ZKOzl/7Ml8xSXl2R0Nds/z38zEY7s
+F6cEfxe1TAt3rjxBB3sQ80FtEYwzGVQeODI31C29IO40BcAzsTCaC2wEfd67+tyG
+z5g0I/dVzx6Jvma92CFrwqpf+EApvU5S0G4DgBJtGW2RUC2CccnME4I4mIAsBurw
+TgC+k8SeQ4dIMPElJRL7prIu0oljMM7ZO0KAPyQREKOcEDKLN0DbY6tYgQIf3F7Y
+yi0EqYHm2z3Fakl1jSFLAKw7FAPPnJUH0G4a0Q8AnPwrAEMm7lnTGjD9WH1UPS/n
+AsGroO6R1N6VHwbG/hVca9MyBIMxeZ/x1Rw7O6fV3iMcKtYo9rE=
+=miyq
+-----END PGP SIGNATURE-----

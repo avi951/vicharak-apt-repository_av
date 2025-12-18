@@ -1,0 +1,20 @@
+Origin: vicharak-apt-stable
+Label: vicharak-apt-qualcomm
+Suite: stable
+Codename: stable-qcs6490-main
+Date: Thu, 18 Dec 2025 11:37:30 UTC
+Architectures: arm64
+Components: stable-qualcomm/qcs6490/main
+Description: Qualcomm-specific packages
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e 0 stable-qualcomm/qcs6490/main/binary-arm64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 stable-qualcomm/qcs6490/main/binary-arm64/Packages.gz
+ f68aee86bc8f558db824117ef08dc218 173 stable-qualcomm/qcs6490/main/binary-arm64/Release
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 stable-qualcomm/qcs6490/main/binary-arm64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 stable-qualcomm/qcs6490/main/binary-arm64/Packages.gz
+ 238aa6c205b8001d2a6034f940b2467ade89f53c 173 stable-qualcomm/qcs6490/main/binary-arm64/Release
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 stable-qualcomm/qcs6490/main/binary-arm64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 stable-qualcomm/qcs6490/main/binary-arm64/Packages.gz
+ d7154bf3dbe4ac8e539372d959c10cf775e11fdc896a5228191bcb624ad9d4f6 173 stable-qualcomm/qcs6490/main/binary-arm64/Release

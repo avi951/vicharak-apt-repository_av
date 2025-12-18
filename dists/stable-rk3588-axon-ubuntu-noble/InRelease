@@ -1,0 +1,39 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: vicharak-apt-stable
+Label: vicharak-apt-rk3588-axon-ubuntu-noble
+Suite: stable
+Codename: stable-rk3588-axon-ubuntu-noble
+Date: Thu, 18 Dec 2025 12:55:25 UTC
+Architectures: arm64
+Components: stable-rockchip/rk3588/axon/ubuntu/noble
+Description: RK3588 Axon Noble Ubuntu packages
+MD5Sum:
+ 0730e2a54dac1ff10cd47407a073ba9c 17085 stable-rockchip/rk3588/axon/ubuntu/noble/binary-arm64/Packages
+ 20e07613a234d2644bdea504a5c30bc7 3904 stable-rockchip/rk3588/axon/ubuntu/noble/binary-arm64/Packages.gz
+ c3bd8efa1ed09970d235e86fe5ea0cd5 208 stable-rockchip/rk3588/axon/ubuntu/noble/binary-arm64/Release
+SHA1:
+ ecd6dcf56e7e51480d13bd95964de1c2956471e9 17085 stable-rockchip/rk3588/axon/ubuntu/noble/binary-arm64/Packages
+ 2925aa2731238030524013047caca7bd4f13ccb2 3904 stable-rockchip/rk3588/axon/ubuntu/noble/binary-arm64/Packages.gz
+ 843af67433f3ec6f026fa61c1fbaf414632872f5 208 stable-rockchip/rk3588/axon/ubuntu/noble/binary-arm64/Release
+SHA256:
+ 0ebb74418042a61347b8eba6b33a3fcfde089b91809bb950b6b11efe6f907f02 17085 stable-rockchip/rk3588/axon/ubuntu/noble/binary-arm64/Packages
+ 6a74f8e36609111fc50bb3e27c0afb18e36a471cbef48797ddcbbfabf54f9b1f 3904 stable-rockchip/rk3588/axon/ubuntu/noble/binary-arm64/Packages.gz
+ 44fe85775e2e70217fbe205f44a2d15e913c8b79078317f9e34a604d08973bbe 208 stable-rockchip/rk3588/axon/ubuntu/noble/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEERvvdDv4HsMosT7ZlwEJICc2+ulkFAmlD+b0ACgkQwEJICc2+
+ulmaNw/+LhTILI+umTPUrzPyHd9FnFjtosq/2DGqtKFkPDrT5YtjXyDDMf9C46v0
+b2MAfW8//SWjlAELUc36Dv1IArRt5jd6uwBSQkXwHsUwEFyYOZMr7Jc22J5r4egQ
+CMY8u7d9z7xLwAkXBlLSwhGYKkkr9kNA4co5G6VzetzOMiSR0tKNBGCRglZI3wf9
+YiI2cL21FMH1RIPK8aEfDM+kDAdi87IqL/voQdz8DdY/iIn+tFbBQFV7aPYdHL4g
+7HrckBAVa5fGS3TVj7ROGlop5GKytMXj5nQ2JoME4T9WWox+qGsPd+FRiXNOyAz4
+FkM/cI87zSGBtnG6+u1mCAstVcOA+yscwR+zXTazSevSxyVVClJNSAd0t6jY+KWn
+JPTMq0NL4t444mUeOStFkVyFDsjt2tc0R7zcGqW+Q4nke/7dRc8ZNfqFRv/yqBq9
+PWWlcevwbFuEn60GZ/DHqUgTKpvBPimN+5uZtidYl54cle+7IMbRNawN8l5azbkM
+gwSyfNcCNKost4CvwML0i6ltWZonMcGWMROixajjHycy1Gaqb4rrSyDwNTEeWrgV
+gtfWWjfxEPIUyrYanRk3cGVi6sVuoBfUjcxiuDfz2Q9azmzk2GhV/x2/6ksTtAb6
+Trlaw9c+rRJ0qNEYQoJORXf/Et1RWKf7JiS0l8szbDVNfmLbbns=
+=7nA5
+-----END PGP SIGNATURE-----

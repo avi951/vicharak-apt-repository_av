@@ -1,0 +1,39 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: vicharak-apt-stable
+Label: vicharak-apt-rockchip
+Suite: stable
+Codename: stable-rk3588-main
+Date: Thu, 18 Dec 2025 11:37:31 UTC
+Architectures: arm64
+Components: stable-rockchip/rk3588/main
+Description: Rockchip-specific packages
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e 0 stable-rockchip/rk3588/main/binary-arm64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 stable-rockchip/rk3588/main/binary-arm64/Packages.gz
+ 90e47c78ff24057e4a9faf965957fb28 172 stable-rockchip/rk3588/main/binary-arm64/Release
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 stable-rockchip/rk3588/main/binary-arm64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 stable-rockchip/rk3588/main/binary-arm64/Packages.gz
+ 1b48dab5a41381e2c80ca33c2fa868df45223f16 172 stable-rockchip/rk3588/main/binary-arm64/Release
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 stable-rockchip/rk3588/main/binary-arm64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 stable-rockchip/rk3588/main/binary-arm64/Packages.gz
+ c64652b52d06c4bad87c7ab1b5b32a5c13ab6468b0cdfff2bcf80f1b419fff37 172 stable-rockchip/rk3588/main/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEERvvdDv4HsMosT7ZlwEJICc2+ulkFAmlD53sACgkQwEJICc2+
+ulmE4w/+OWBE5hBeShFwtmdXTC8ggPK1PpwyXjM4PkrziS96uHFbtCGyRz9bEybS
+mKRMVo7tbwufXGnmAKSqPQElcs3KSLC9plyGK6zTexIBA5P+RkqnzKurA7ApiGeG
+RMlPx+E+OXck80l34INDdv1zcCKHMyJcQ4XXYStsQTFE38mSdyWXxWvEPWTs4ypY
+i3BdMRQuUPRgm1N1Q9bUbL22cJXMfb2FK/Z1WZb9IXcndkKxSM9RE8kzS+iO0l+G
+49XU2oA6CNUOuvADxqJ520JIuMWtRczJClQUjFvnDvMktgXVj/HzWEy3OqtEKT8P
+qvO9pZxMSH9uXNE/At5WOl+TcHAcz5T0UfachKoibo18gsxRoyOmmaJyErKTOStW
+Ue3FUZzRbP3OUl2TtKGrZL/TVsw8XcE7bwSDL8ZSfVge9AmCpFdNBOpVGZIPPIAX
+lLa7o7Pg5TpNYBSIOMYWGXayZvtA6UNDb1B14j+/7Xhgb+rlo8ezGnqlK+fLK4VG
+DB3RUbHAMwBGkHk9ADBH3Kx+nHph6ro7jhfG+a5ArpMEvraXA/wMnWg0j4INFRH0
+UD6DbN8G/0YM0IDnSdoMi4Wq9r2X+P5b8j04DbqrHhveNAnNxVE2O9LwZTcnSokZ
+WlOFBfyVpTgF6bCEFgICwlQMKYUNPNogFfx/LfofDnUwI1X6WSc=
+=ppao
+-----END PGP SIGNATURE-----

@@ -1,0 +1,6 @@
+Archive: stable
+Component: stable-yocto/main
+Origin: vicharak-apt-stable
+Label: vicharak-apt-stable
+Architecture: arm64
+Description: Yocto Specific packages

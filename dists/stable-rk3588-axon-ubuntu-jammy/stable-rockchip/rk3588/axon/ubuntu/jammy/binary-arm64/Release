@@ -1,0 +1,6 @@
+Archive: stable
+Component: stable-rockchip/rk3588/axon/ubuntu/jammy
+Origin: vicharak-apt-stable
+Label: vicharak-apt-rkrk3588-axon-ubuntu-jammy
+Architecture: arm64
+Description: RK3588 Axon Noble Ubuntu packages

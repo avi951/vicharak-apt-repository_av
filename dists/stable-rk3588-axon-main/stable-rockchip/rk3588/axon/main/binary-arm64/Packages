@@ -1,0 +1,309 @@
+Package: linux-headers-5.10.160-axon
+Source: linux-5.10.160-axon
+Version: 20241120-axon
+Architecture: arm64
+Maintainer: peter <peter@felicia>
+Installed-Size: 46517
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/stable-rockchip/rk3588/axon/main/l/linux-5.10.160-axon/linux-headers-5.10.160-axon_20241120-axon_arm64.deb
+Size: 7700084
+SHA256: 09fa36522c04bed800f5bbb668fc7e39760dd52edc90ed3c7a47e9db3a7d666a
+SHA1: e71d2a996ba63233d0a7014c9a07cbbb7e45298c
+MD5sum: d56e6bb2f7bce4b18fcc9027db0b339c
+Description: Linux kernel headers for 5.10.160-axon on arm64
+ This package provides kernel header files for 5.10.160-axon on arm64
+ .
+ This is useful for people who need to build external modules
+
+Package: linux-headers-5.10.226-axon
+Source: linux-5.10.226-axon
+Version: 20241120-axon
+Architecture: arm64
+Maintainer: vicharak <d.kabutarwala@yahoo.com>
+Installed-Size: 47308
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/stable-rockchip/rk3588/axon/main/l/linux-5.10.226-axon/linux-headers-5.10.226-axon_20241120-axon_arm64.deb
+Size: 7707168
+SHA256: f913fb285dd6824d9d71595be55a500b26443e7dd5593028e47c9f8a31ef51d0
+SHA1: 75801d3cd08b6db4aaa377daa2b2d43ed35e4f1f
+MD5sum: e9ac4b580831ce54258244ca199abe39
+Description: Linux kernel headers for 5.10.226-axon on arm64
+ This package provides kernel header files for 5.10.226-axon on arm64
+ .
+ This is useful for people who need to build external modules
+
+Package: linux-headers-5.10.228-axon
+Source: linux-5.10.228-axon
+Version: 20241227-axon
+Architecture: arm64
+Maintainer: vicharak <d.kabutarwala@yahoo.com>
+Installed-Size: 47326
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/stable-rockchip/rk3588/axon/main/l/linux-5.10.228-axon/linux-headers-5.10.228-axon_20241227-axon_arm64.deb
+Size: 7709432
+SHA256: 0b8c3ea7d42514a5430bd746e19a1ed3f57616207dd6f3a9af2584fe3362698e
+SHA1: d92808a6dc94f43d3e42c4fb187df7941a6a2c4b
+MD5sum: 45aef0de6f3ab9254b28db4c186e639c
+Description: Linux kernel headers for 5.10.228-axon on arm64
+ This package provides kernel header files for 5.10.228-axon on arm64
+ .
+ This is useful for people who need to build external modules
+
+Package: linux-headers-5.10.230-axon
+Source: linux-5.10.230-axon
+Version: 20250211-axon
+Architecture: arm64
+Maintainer: peter <peter@felicia>
+Installed-Size: 47447
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/stable-rockchip/rk3588/axon/main/l/linux-5.10.230-axon/linux-headers-5.10.230-axon_20250211-axon_arm64.deb
+Size: 7715096
+SHA256: d9dd859342ac26caf2b1fb9af03c264124a0c82bddbbbabf28fe29f5cc6689ce
+SHA1: 2100d527c712bc9a559beca0f6c234b4ed1ed14d
+MD5sum: 5ad26e63cbf9cc497dba7d0b6ac92172
+Description: Linux kernel headers for 5.10.230-axon on arm64
+ This package provides kernel header files for 5.10.230-axon on arm64
+ .
+ This is useful for people who need to build external modules
+
+Package: linux-headers-5.10.233-axon
+Source: linux-5.10.233-axon
+Version: 20250325-axon
+Architecture: arm64
+Maintainer: peter <peter@felicia>
+Installed-Size: 48200
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/stable-rockchip/rk3588/axon/main/l/linux-5.10.233-axon/linux-headers-5.10.233-axon_20250325-axon_arm64.deb
+Size: 7798872
+SHA256: 0aa4729a500153d7aaf845c184f4821fc1c5f279fdc4eb443b2bf9a1efb50011
+SHA1: 695b4aa2612844f61e6484351d05c4591b54b653
+MD5sum: 326b1c112ed67ca62375d32d1e495929
+Description: Linux kernel headers for 5.10.233-axon on arm64
+ This package provides kernel header files for 5.10.233-axon on arm64
+ .
+ This is useful for people who need to build external modules
+
+Package: linux-headers-5.10.238-axon
+Source: linux-5.10.238-axon
+Version: 20251006-axon
+Architecture: arm64
+Maintainer: vicharak <d.kabutarwala@yahoo.com>
+Installed-Size: 47394
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/stable-rockchip/rk3588/axon/main/l/linux-5.10.238-axon/linux-headers-5.10.238-axon_20251006-axon_arm64.deb
+Size: 7710284
+SHA256: 0c3ca8e3ec4c64ae95dc2b0bcaacdf550b02af2fb0198ac3cb71fa92d091e3af
+SHA1: 48c18a488c794164b1136b0969a1d3aeae51daf1
+MD5sum: 1b5538555352de7da09e45f25d5d7915
+Description: Linux kernel headers for 5.10.238-axon on arm64
+ This package provides kernel header files for 5.10.238-axon on arm64
+ .
+ This is useful for people who need to build external modules
+
+Package: linux-headers-6.1.75-axon
+Source: linux-upstream
+Version: 20251006-axon
+Architecture: arm64
+Maintainer: peter <peter@felicia>
+Installed-Size: 52649
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/stable-rockchip/rk3588/axon/main/l/linux-upstream/linux-headers-6.1.75-axon_20251006-axon_arm64.deb
+Size: 8409660
+SHA256: a09e4f8f70b0b8d410a898a3c1758e983d2316bf11840febe444dac408a83ae0
+SHA1: 10cb57c752268a891d886d2f49307946c672c762
+MD5sum: 70822cd46e8d0f01d2c33745440e0eb4
+Description: Linux kernel headers for 6.1.75-axon on arm64
+ This package provides kernel header files for 6.1.75-axon on arm64
+ .
+ This is useful for people who need to build external modules
+
+Package: linux-image-5.10.160-axon
+Source: linux-5.10.160-axon
+Version: 20241120-axon
+Architecture: arm64
+Maintainer: peter <peter@felicia>
+Installed-Size: 66218
+Depends: vicharak-config (>= 0.1.7), u-boot-menu (>= 5.0.4)
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/stable-rockchip/rk3588/axon/main/l/linux-5.10.160-axon/linux-image-5.10.160-axon_20241120-axon_arm64.deb
+Size: 14976260
+SHA256: aa3abd194367972c876a0e3b4f6cb2503de86fa80e7cd31edc9b14a98ea5f404
+SHA1: 27efa4ce7c4f3686f9ee642a190b0f06c5484392
+MD5sum: 157c8599b792921ce867ba29b9653ce1
+Description: Linux kernel, version 5.10.160-axon
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 5.10.160-axon.
+
+Package: linux-image-5.10.226-axon
+Source: linux-5.10.226-axon
+Version: 20241120-axon
+Architecture: arm64
+Maintainer: vicharak <d.kabutarwala@yahoo.com>
+Installed-Size: 68611
+Depends: vicharak-config (>= 0.1.7), u-boot-menu (>= 5.0.4)
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/stable-rockchip/rk3588/axon/main/l/linux-5.10.226-axon/linux-image-5.10.226-axon_20241120-axon_arm64.deb
+Size: 15520372
+SHA256: c21a1600fad6b1fff79c2c13b47094f4872c4a9840a1fd3388875abaae15bd60
+SHA1: 5410199bd9e73118ab464acd3f78b6571a156a71
+MD5sum: e8ad2defc7947cde9a3c2c5932778429
+Description: Linux kernel, version 5.10.226-axon
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 5.10.226-axon.
+
+Package: linux-image-5.10.228-axon
+Source: linux-5.10.228-axon
+Version: 20241227-axon
+Architecture: arm64
+Maintainer: vicharak <d.kabutarwala@yahoo.com>
+Installed-Size: 68688
+Depends: vicharak-config (>= 0.1.7), u-boot-menu (>= 5.0.4)
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/stable-rockchip/rk3588/axon/main/l/linux-5.10.228-axon/linux-image-5.10.228-axon_20241227-axon_arm64.deb
+Size: 15548228
+SHA256: 53fd66105e857ee2dc1c98ccb6bb340f71b7c63af5653238c0da78964b23ced9
+SHA1: db755d234294323e4491ade8654553c9b86cf0c6
+MD5sum: f1e7463b0fef0be21dcf804042db63fb
+Description: Linux kernel, version 5.10.228-axon
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 5.10.228-axon.
+
+Package: linux-image-5.10.230-axon
+Source: linux-5.10.230-axon
+Version: 20250211-axon
+Architecture: arm64
+Maintainer: peter <peter@felicia>
+Installed-Size: 75173
+Depends: vicharak-config (>= 0.1.7), u-boot-menu (>= 5.0.4)
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/stable-rockchip/rk3588/axon/main/l/linux-5.10.230-axon/linux-image-5.10.230-axon_20250211-axon_arm64.deb
+Size: 16685920
+SHA256: 2487e1907d1817f37685ce13d669aa2870a3c6016472ab1600ac1504ad5746a4
+SHA1: 83137ad0c6046a3e51e24220693ab28ad5df12f1
+MD5sum: f4eb41164d01bace539527b98c93044d
+Description: Linux kernel, version 5.10.230-axon
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 5.10.230-axon.
+
+Package: linux-image-5.10.233-axon
+Source: linux-5.10.233-axon
+Version: 20250325-axon
+Architecture: arm64
+Maintainer: peter <peter@felicia>
+Installed-Size: 75137
+Depends: vicharak-config (>= 0.1.7), u-boot-menu (>= 5.0.4)
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/stable-rockchip/rk3588/axon/main/l/linux-5.10.233-axon/linux-image-5.10.233-axon_20250325-axon_arm64.deb
+Size: 16684368
+SHA256: 9873a6114116608a500d13652191a3a31d6a05e9030abd466a324bc1a3fe7923
+SHA1: cc7103777d41e12ad016fc2b60eddf0f78707e5a
+MD5sum: 606d4e62cdcea7c36648820b786eae9d
+Description: Linux kernel, version 5.10.233-axon
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 5.10.233-axon.
+
+Package: linux-image-5.10.238-axon
+Source: linux-5.10.238-axon
+Version: 20251006-axon
+Architecture: arm64
+Maintainer: vicharak <d.kabutarwala@yahoo.com>
+Installed-Size: 75451
+Depends: vicharak-config (>= 0.1.7), u-boot-menu (>= 5.0.4)
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/stable-rockchip/rk3588/axon/main/l/linux-5.10.238-axon/linux-image-5.10.238-axon_20251006-axon_arm64.deb
+Size: 16732816
+SHA256: 48cf7a7234cfb6c32bcd8b05479f1553082a799aa8711908d859f2d0c5dccdfc
+SHA1: 5b3d7b1a27bfd74b7109ffdadd84294e235d500a
+MD5sum: f7f9ef978ec50a0056e88c1a498a2c48
+Description: Linux kernel, version 5.10.238-axon
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 5.10.238-axon.
+
+Package: linux-image-6.1.75-axon
+Source: linux-upstream
+Version: 20251006-axon
+Architecture: arm64
+Maintainer: peter <peter@felicia>
+Installed-Size: 74524
+Depends: vicharak-config (>= 0.1.7), u-boot-menu (>= 5.0.4)
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/stable-rockchip/rk3588/axon/main/l/linux-upstream/linux-image-6.1.75-axon_20251006-axon_arm64.deb
+Size: 16931860
+SHA256: 4608d82172e652979fc794c72bfa6552fec335466a3a33f6f33989391f22b689
+SHA1: 3f00f24ac68e827ca08c899eec9c5652ca1084dc
+MD5sum: 63bada651dc0a8804a6ddb5a6ea5c7ab
+Description: Linux kernel, version 6.1.75-axon
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 6.1.75-axon.
+
+Package: linux-libc-dev
+Source: linux-upstream
+Version: 20251006-axon
+Architecture: arm64
+Maintainer: peter <peter@felicia>
+Installed-Size: 7061
+Provides: linux-kernel-headers
+Multi-Arch: same
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: devel
+Filename: pool/stable-rockchip/rk3588/axon/main/l/linux-upstream/linux-libc-dev_20251006-axon_arm64.deb
+Size: 1333608
+SHA256: f447890043b484402357cde620b1e75fa6825f4d05d9daa0f0ffc77c17d8c36f
+SHA1: 4f76260d4fac943be01cd2cbe04ab05754d240bd
+MD5sum: 8a21a63507ef54634430931f484e204a
+Description: Linux support headers for userspace development
+ This package provides userspaces headers from the Linux kernel.  These headers
+ are used by the installed headers for GNU glibc and other system libraries.
+
+Package: u-boot-rk3588-axon
+Source: u-boot-vicharak
+Version: 1.1.12
+Architecture: arm64
+Maintainer: shailparmar03 <shailparmar26@gmail.com>
+Installed-Size: 4422
+Conflicts: u-boot-rk3588-axon
+Replaces: u-boot-rk3588-axon
+Provides: u-boot-rk3588-axon
+Priority: optional
+Section: admin
+Filename: pool/stable-rockchip/rk3588/axon/main/u/u-boot-vicharak/u-boot-rk3588-axon_1.1.12_arm64.deb
+Size: 580788
+SHA256: 8d73eec4b6a3baea48e0614fe97e7cc88687112bb5d7918119dbceb7f48ffc87
+SHA1: 7a6c32d0b02220a1b2ec98a7cfbdea94f2d9e038
+MD5sum: 452f84fe04466783bb425f04a9e0cb40
+Description: A boot loader for the Vicharak Axon board.
+ Das U-Boot is a cross-platform bootloader for embedded systems,
+ used as the default boot loader by several board vendors.  It is
+ intended to be easy to port and to debug, and runs on many
+ supported architectures, including PPC, ARM, MIPS, x86, m68k,
+ NIOS, and Microblaze.
+

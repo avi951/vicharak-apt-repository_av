@@ -1,0 +1,39 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: vicharak-apt-stable
+Label: vicharak-apt-qcs6490-axon-mini-ubuntu-noble
+Suite: stable
+Codename: stable-qcs6490-axon-mini-ubuntu-noble
+Date: Thu, 18 Dec 2025 11:37:30 UTC
+Architectures: arm64
+Components: stable-qualcomm/qcs6490/axon-mini/ubuntu/noble
+Description: Qualcomm-specific packages
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e 0 stable-qualcomm/qcs6490/axon-mini/ubuntu/noble/binary-arm64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 stable-qualcomm/qcs6490/axon-mini/ubuntu/noble/binary-arm64/Packages.gz
+ 5068eb99962eba4360c144977033942e 213 stable-qualcomm/qcs6490/axon-mini/ubuntu/noble/binary-arm64/Release
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 stable-qualcomm/qcs6490/axon-mini/ubuntu/noble/binary-arm64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 stable-qualcomm/qcs6490/axon-mini/ubuntu/noble/binary-arm64/Packages.gz
+ 7734f1ddefbaeb1824c1755b7ee9469953a8f9b4 213 stable-qualcomm/qcs6490/axon-mini/ubuntu/noble/binary-arm64/Release
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 stable-qualcomm/qcs6490/axon-mini/ubuntu/noble/binary-arm64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 stable-qualcomm/qcs6490/axon-mini/ubuntu/noble/binary-arm64/Packages.gz
+ 83ed3ddaa09ccac59fc402f2bcce7b130703b9299c248c4f43ebfb9a1f75371e 213 stable-qualcomm/qcs6490/axon-mini/ubuntu/noble/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEERvvdDv4HsMosT7ZlwEJICc2+ulkFAmlD53oACgkQwEJICc2+
+ull7NA//bAWezWVrvzNyQ09zJ7vxnjz+K0EXjmRJbsppJeE7NKwFNe8sz0SBAtUX
+kZg68dy4smw5bXgFZ/zrK28EaESoV4IjDTexPdBqmsLB18Tu3Ljb4F0R3EQMzcmH
+5RHWt7M60XFdiIyyNNYqre7/H8jYQ5Ze0EBst3ahmsYF24nJnh7f/Wke4EvgXXdi
+K67FEtfG00ryDYgT7J48LaVLyEBOgpdfZ/hWBnWZ3ilmmNs7WMGqN0Uql2NXuSks
+u9hSyfXQDClolIfgb5rEWO702LsPTPKjJnDt7iMhUpe7YnBcQvWPjSNK4W8HmiY1
+ocJlihQml3Y6aBF2WefPK3tq+jQ65lY0ASBp/MULRHMH+aWmWUwfCGC6/fksUXbx
+fsoXdrnhw8B2tTZ7AemZKYFhRCdaG66PbwIvEZsFe8Uq0z1w0BeNFjTQ2zwpaE4l
+wj9a168tAT86IwcDUCx+fYG0lrCAQcRGmQ82IzHrb3P0jAAMoccKK1bqaZcMKSsg
+hjMy8N8vxPRCi0Ei76X1J5zKNvFhGnqoo8HEG3j3S8a282c/nHARnwqLerWskW9f
+zMnA3P+Cb2uFFO7bmjhnx6+R51dPG7ubUjL0TRiQtmgamL3oKc6FHa3Ix/Hrjhjm
+AZh63MSPl+MjzAlwsc4hoKgDLa2pzWf9NqG5RHNS3IFsOcPLKMk=
+=3KvU
+-----END PGP SIGNATURE-----
